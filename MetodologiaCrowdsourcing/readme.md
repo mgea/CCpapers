@@ -89,7 +89,8 @@ void setup() {
     for (int x=1; x <= columns; x++) {   
           pushMatrix();   
           randval = random(-randsum,randsum);  
-          translate(padding + (x * sqrsize) - (.5*sqrsize) + (randval*dampen),padding + (y * sqrsize) - (.5*sqrsize) + (randval*dampen));
+          translate(padding + (x * sqrsize) - (.5*sqrsize) + (randval*dampen),padding +
+                        (y * sqrsize) - (.5*sqrsize) + (randval*dampen));
           rotate(radians(randval));   
           rect(0,0,sqrsize,sqrsize);   
           popMatrix();  
@@ -100,9 +101,22 @@ void setup() {
 Figura 1. Schotter (Georg Nees, 1965) y su código equivalente en Processing
 
 
-De ese modo, las limitaciones inherentes a esas primeras máquinas computacionales abrió paso a una creatividad basada en modelos matemáticos para crear los primeros algoritmos que mediante funciones recurrentes representaban los primeros fractales, o el uso de sucesiones de fibonacci para crear bellas representaciones visuales en toscos aparatos de representación. Se puede visitar estas obras y conocer los artistas en el Museo de Arte Digital (DAM), proyecto surgido en Alemania y que preserva obras de estos pioneros. 
-El concepto de *ordenador personal* ya fue concebido por Vannevar Bush en 1945 en el artículo “As We May Think” donde habla en los siguientes términos: *“Consider a future device… in which an individual stores all his books, records, and communications, and which is mechanized so that it may be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory”* (Bush, 1945). 
-Esa idea conceptual se enriqueció con otros avances que jóvenes estudiantes entusiastas como el caso de Ivan E. Sutherland, que en 1963 presenta *Sketchpad* un prototipo que permite diseñar imágenes interactivas en una pantalla usando un lápiz óptico. Este hito se complementa con la invención por parte de Douglas Engelbart del ratón (1965) que supuso todo un acontecimiento y del cual se tiene constancia todavía con una demostración que causó gran expectación en el mundo científico y que por nada del mundo se quiso perder Alan Kay, precursor de la arquitectura de los ordenadores contemporáneos. La presentación del ratón en 1968 fue denominada “The Mother of All Demos” y se encuentra disponible para su visualización en Youtube
+De ese modo, las limitaciones inherentes a esas primeras máquinas computacionales abrió paso a una creatividad basada en modelos matemáticos para crear los primeros algoritmos que mediante funciones recurrentes representaban los primeros fractales, o el uso de sucesiones de fibonacci para crear bellas representaciones visuales en toscos aparatos de representación. Se puede visitar estas obras y conocer los artistas en el Museo de Arte Digital ([DAM]( https://dam.org/)), proyecto surgido en Alemania y que preserva obras de estos pioneros. 
+
+El concepto de *ordenador personal* ya fue concebido por Vannevar Bush en 1945 en el artículo “As We May Think” 
+donde habla en los siguientes términos: 
+> *“Consider a future device… in which an individual stores all his books, records, and communications, * 
+> 
+> *and which is mechanized so that it may be consulted with exceeding speed and flexibility.* 
+> 
+> *It is an enlarged intimate supplement to his memory”* (Bush, 1945).
+
+
+Esa idea conceptual se enriqueció con otros avances que jóvenes estudiantes entusiastas como el caso de Ivan E. Sutherland, que en 1963 presenta *Sketchpad* un prototipo que permite diseñar imágenes interactivas en una pantalla usando un lápiz óptico. 
+
+Este hito se complementa con la invención por parte de Douglas Engelbart del ratón (1965) que supuso todo un acontecimiento y del cual se tiene constancia todavía con una demostración que causó gran expectación en el mundo científico y que por nada del mundo se quiso perder Alan Kay, precursor de la arquitectura de los ordenadores contemporáneos. La presentación del ratón en 1968 fue denominada “The Mother of All Demos” y se encuentra disponible para su visualización en Youtube
+
+
 Sin embargo, es con la aparición del PC (el ordenador personal) en la década de los 80 cuando hay una transformación radical en paradigma de la cultura digital: se busca al *usuario universal*, cualquier persona puede usar este medio para su trabajo, el ocio, o incluso puede “programar” sus propias aplicaciones al estilo de los primeros pioneros. Se crean las primeras aplicaciones universales que pueden ayudar en cualquier tarea habitual: un procesador de textos, una hoja de cálculo, un programa de diseño y algunas utilidades para la organización (agenda, recordatorios) y gestión de los datos (almacenamiento en carpetas y capacidad de movilidad mediante soportes magnéticos). Incluso en esa época un joven Bill Gates se atrevía a aventurar que en un futuro próximo (en 25 años) habrá uno de esos (PCs) en todas las casas. La realidad ha ido mucho más allá de esa predicción, ya estamos rodeados de dispositivos inteligentes y el concepto de ordenador personal ha quedado relegado en un segundo plano. 
 Sin embargo, es interesante comprobar la reacción y admiración de las personas cuando accedían por primera vez a esos modernos centros de trabajo y ocio. En esos tiempos (e incluso ahora), la vida de una persona estaba llena de novedades increíbles. Lev Manovich cuenta esa evolución como parte de la historia de su vida, cuando en 1981 se traslada de Moscú a Nueva York en 2001, y aunque ya conocía algunos principios de la programación y uso de los medios, “su primera experiencia con gráficos fue en 1983-84 con un Apple IIe [..] y en 1984 vio la implantación exitosa de la primera interfaz gráfica de usuario (GUI) en Apple Macintosh” (Manovich, 2013)
 Esa rivalidad MAC-PC, o lo que es lo mismo, Jobs-Gates, fue un magnífico caldo de cultivo para las continuas innovaciones y fomento de la creatividad en el mercado de la tecnología al servicio del usuario común. En el imaginario colectivo queda la presentación del nuevo Macintosh en un anuncio dirigido por Ridley Scott que fue emitido por primera vez durante la SuperBowl de 1984. Hay que recordar que ambos sistemas operativos, la base software para el funcionamiento de un ordenador, fueron herederos de sistema Unix y X-Windows, un hito que surgió como concepto en las instalaciones de Xerox Parc, un centro de investigación puntero donde se establecieron las primeras pautas para crear la metáfora *desktop* WIMP basada en los conceptos de ventana (contenedor de información), iconos, menús y uso del puntero (ratón). Es en Xerox Parc donde Alan Kay desarrolló estos conceptos que hoy en día siguen vigentes, siendo además uno de los artífices del desarrollo de *Xerox Star,* el primer ordenador con representación gráfica (Kay, 1990) e inventor de *Dynabook*, el precursor de la tablet actual (Kay, 1977). Toda esta transformación tiene un punto de inflexión muy importante con la aparición de las redes de comunicaciones con ARPANET, un conglomerado de sistemas de conexión por cable con un propósito inicialmente militar, pero que rápidamente se transformó en los protocolos y arquitectura que hoy conocemos como Internet**.** Una de las aportaciones más valoradas ha sido la invención por parte de Tim Berners-Lee de la *Web (World wide web)* como sistema de información universal mientras trabajaba como becario en el CERN, que era un centro donde él mismo comentaba: “parecía un micromundo de investigadores de diferentes procedencias e idiomas que necesitaban compartir información, se buscaba un sistema que permitiese a la gente poner en común sus pareceres y realizar el seguimiento de la memoria institucional del proyecto” (Isaacson, 2014). El concepto de *hipertexto* fue la clave para crear esos documentos que se codifican de tal manera que al seleccionar un elemento, te redirige a otro documento o fragmento de contenido. Quedará para la historia el informe que Tim Berners-Lee entregó a su jefe entonces (Mike Sendall) en 1989 con las ideas de Esquirre, el precursor de lo que sería el concepto de la web un año más tarde, y donde su jefe escribió las palabra que pasarían a la historia: “vague but exciting”. 
@@ -122,3 +136,15 @@ La consolidación de la Web fue con la nueva denominación de *Web 2.0 que* ya e
 Este es un punto de no retroceso y es donde ya podemos hablar del nuevo usuario de la red: *los prosumidores*, esto es, usuarios bidireccionales que dejan de ser meros consumidores (de información y conocimiento) de actitud pasiva y pasan a ser productores activos (de ideas, conocimiento). Este es un concepto que fue acuñado originariamente de una novela de ciencia ficción: la tercera ola (Toffler, 1980) y que ha sido un elemento fundamental para estudiar el comportamiento de los usuarios en el ciberespacio. Esta bidireccionalidad provoca un nuevo efecto colateral: el estudio de los nuevos medios con los que nos comunicamos en este espacio digital. 
 Antes de nada, cabe entonces preguntarse cuándo los *medios clásicos* (tales como como la fotografía o el cine) se convirtieron en *nuevos medios*. Lev Manovich en lugar de catalogarlos de forma exhaustiva, nos da una serie de principios que deben poseer los nuevos medios: la representación numérica, la modularidad, la automatización, la variabilidad y la transcodificación (Manovich, 2001). Esa caracterización nos permite profundizar en las habilidades de cada medio y analizar sus mutaciones o hibridaciones a lo largo del tiempo. En ese contexto, el ordenador es un metamedio que puede estar contenido todo o parte de esos nuevos medios. La fotografía, por ejemplo, es una representación digital tanto en la captura (cámaras de los smartphones, cámaras digitales, escaneado de imágenes) , en su procesamiento (mediante software como photoshop, gimp) y en su representación (pantalla, hologramas 3D, realidad virtual, etc). 
 
+
+
+
+
+
+## Referencias Web
+
+
+* Museo de Arte Digital ([DAM]( https://dam.org/))
+
+
+* [*The Mother of All Demos*](https://www.youtube.com/watch?v=yJDv-zdhzMY) (D. Engelbart, 1968) https://www.youtube.com/watch?v=yJDv-zdhzMY
