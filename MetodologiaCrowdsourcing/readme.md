@@ -260,7 +260,7 @@ Un sandbox es un entorno de pruebas que permite probar rápidamente pequeños c�
 Hay muchas otras alternativas (espacios wiki, blogs, etc.) pero como siempre, el punto de partida es proponérselo, imaginar, saber explicar y desarrollar si es posible tu propuesta (en términos de herramientas digitales). Ese es el primer paso para crear esa comunidad que pueda colaborar con tu idea. 
 
 
-## Conclusiones**
+## Conclusiones
 
 En este recorrido por los hitos que han ocurrido en las últimas décadas de la sociedad contemporánea, nos damos cuenta que los presagios y vaticinios que se auguraban a finales del siglo XX se han cumplido: esta revolución tecnológica ha llegado para quedarse y ha movido todos los cimientos de lo que se tenía asentado hasta el momento. 
 
@@ -275,8 +275,59 @@ Las posturas casi evangélicas de Stallman o el pragmatismo de Lessig ya son pie
 
 
 
+## Referencias
 
+* Alberich, Jordi: *Elementos de la creatividad multimedia: apropiación, remediación, hibridación*, Revista online Mosaic, enero 2018, nº 156. ISSN: 1696-3296. DOI: https://doi.org/10.7238/m.n156.1803
 
+* Bauman, Zygmunt. *Modernidad líquida*. 2000 Blackwell Publisher
+
+* Brabham, Daren C.  *Crowdsourcing*, The MIT Press, 2013 
+
+* Bush, Vannevar. *As We May Think*. The Atlantic, Vol 176, Nº 1; pag. 101-108. 1945 Online: https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/ 
+
+* Carr, Nicholas G. *Superficiales: ¿Que está haciendo Internet con nuestras mentes?*”. Taurus, 2011
+
+* Castells, Manuel. *La Sociedad Red: La era de la información: economía, sociedad y cultura Volumen I*. Alianza Editorial, 1997
+
+* Cobo Romaní, Cristóbal; Pardo Kuklinski, Hugo. *Planeta Web 2.0. Inteligencia colectiva o medios fast food*. Grup de Recerca d'Interaccions Digitals, Universitat de Vic, Flacso México. Licencia CCBYNCND 2.5 2007 Disponible online: https://universoabierto.org/2016/07/20/planeta-web-2-0-inteligencia-colectiva-o-medios-fast-food/ 
+
+* Cornella, Alfons. *Cómo sobrevivir a la infoxicación.* conferencia del acto de entrega de títulos de los programas de Formación de Posgrado del año académico 1999-2000. Disponible online en: https://www.academia.edu/download/56656821/Sobrevivir_infoxicacion.pdf 
+
+* Isaacson, Walter. *The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution*, Random House Mondadori, 2014 
+
+* Franke, Herbert W. *Computer Graphics - Computer Art*. Springer- Verlag, 1985
+
+* Halbwachs, Maurice. *The collective memory*, New York, Harper & Row Colophon Books, 1980
+
+* Horrigan, J. B. (2016). *Information Overload*. Washington D. C, Pew Research, 2016
+
+* Howe, Jeff. *The rise of Crowsourcing,* Wired Wired magazine, V. 14, Nº 6, 2006. Online: https://www.wired.com/2006/06/crowds/ 
+
+* Jenkins, Henry. *Confronting the Challenges of Participatory Culture: Media Education for the 21st Century*, Blog personal, 2006 Online:  http://henryjenkins.org/blog/2006/10/confronting_the_challenges_of.html 
+
+* Kay, Alan; Goldberg, Adele. *Personal Dynamic Media*, IEEE Computer. Vol. 10, Nº 3 1977
+
+* Kay, Alan. *User Interface, a personal view*. En Laurel, B. *The Art of human-computer interface design*, capítulo 13, pág. 193. Addison Wesley, 1990
+
+* Leibowit, Glen. *Steve Jobs Believed Everyone Should Learn This 1 SkillIt's an essential skill we all rely on every day of our lives. Inc Journal,* Jun, 2017. Online: https://www.inc.com/glenn-leibowitz/steve-jobs-believed-everyone-should-learn-this-1-s.html 
+
+* Lévy, Pierre. *Collective intelligence: mankind's emerging world in cyberspace: La cultura de la sociedad digital*, Cambridge Perseus Book, 1997.
+
+* Manovich, Lev. *The Language of New Media*. Massachusetts Institute of Technology Press. 2001
+
+* Resnick, Mitchel. Cultivando las semillas para una sociedad más creativa, Revista Electrónica "Actualidades Investigativas en Educación", vol. 8, núm. 1, 2008. Recurso online: https://web.media.mit.edu/~mres/papers/sowing-seeds-spanish-translation.pdf 
+
+* Sangrá, Albert; Wheeler, Steve. *Nuevas formas de aprendizaje informales: ¿O estamos formalizando lo informal*?. Revista de Universidad y Sociedad del Conocimiento (RUSC). Vol. 10, n.º 1, págs. 107-115, UOC. 2013 DOI: http://dx.doi.org/10.7238/rusc.v10i1.1689 
+
+* Stallman, Richard. *Manifiesto GNU*, 1989. Disponible online: https://www.gnu.org/gnu/manifesto.es.html 
+
+* Tapscott, D., A.D. Williams (2006). *Wikinomics. How Mass Collaboration ChangesEverything*. New York: Penguin
+
+* Toffler, Alvin: *La tercera Ola*, Bantam Books, 1980
+
+* UNESCO: *Open Educational Resources (OER)*. 2021. Online https://en.unesco.org/themes/building-knowledge-societies/oer 
+
+* Weiser, Mark. *The computer for the 21st Century*. Art. Scientific American, Vol. 265, No. 3, 1991. Online: https://www.lri.fr/~mbl/Stanford/CS477/papers/Weiser-SciAm.pdf 	
 
 
 ## Referencias Web
