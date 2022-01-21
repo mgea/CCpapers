@@ -354,8 +354,8 @@ Las posturas casi evangélicas de Stallman o el pragmatismo de Lessig ya son pie
 * Johnny Cash Project *Making of* del videoclip: https://www.youtube.com/watch?v=WwNVlNt9iDk  
 * This Exquisite forest: http://www.aaronkoblin.com/project/this-exquisite-forest/
 * LifeLong Kindergarden MIT  https://www.media.mit.edu/groups/lifelong-kindergarten/overview/ 
-* Lenguaje [Scratch](https://scratch.mit.edu)
-* Github: https://github.com/ 
+* Lenguaje Scratch - https://scratch.mit.edu 
+* Github - https://github.com/ 
 * Messy curve draw (@Sen) https://openprocessing.org/sketch/486307 
 * CodePen: https://codepen.io/pavelsuraba/pen/ldHya 
 * w3school: https://www.w3schools.com/ 
