@@ -33,7 +33,9 @@ La tecnología ha provocado cambios disruptivos evidentes que afectan nuestros h
 
 Sin embargo, estas son rutinas recientes que se experimentaron a partir de los 90 de forma bastante artesanal y que llegaron al gran público con el comienzo del siglo XXI cuando el acceso a la red y los dispositivos de conexión se fueron abaratando y siendo más fiables. 
 
-De los autores que han hablado sobre este proceso de cambio, quizás sea Nicholas Negroponte quien pudo vislumbrar ese cambio que se avecinaba con más nitidez dada su posición privilegiada como fundador y director del MIT Medialab, un instituto de investigación heterogéneo y centro de referencia en innovaciones tecnológicas con sinergias de colaboración en varias áreas de desarrollo. Esto le permitió conocer de primera mano y vislumbrar el potencial de investigaciones emergentes que rápidamente saldrían del laboratorio a la sociedad, y que plasma en su libro *Ser Digital* vaticinando que habrá que “saber la diferencia entre bits y átomos” (Negroponte, 1995). En ese libro, presagio de los muchos cambios que acontecieron en el inicio del siglo XXI, habla de la paradoja del escribir en formato libro (cuando en esas fechas el avance de uso de tecnología digital multimedia es exponencial) ya que está pensado para las personas que todavía no han dado el todavía el paso a digital, y usa el poder de la palabra escrita porque “suelta destellos de imágenes y evoca metáforas que adquieren significado a partir de la imaginación y de las propias experiencias del lector” (Negroponte, 1995). También nos habla de la transformación de los átomos en bits y la transformación socioeconómica que eso implica, como por ejemplo, “los primeros átomos de entretenimiento que se sustituirán por bits son los videos de alquiler” (Negroponte, 1995). Incidiendo en esa idea, plantea que será un cambio generalizado, en ese proceso de digitalizar la información “transformando todos los medios en bits”, tendrá como consecuencia la mezcla y combinación inmediata de todos esos tipos de contenidos. En su libro habla de la multimedia, concepto que posteriormente otros autores extienden hacia la remediación e hibridación 
+De los autores que han hablado sobre este proceso de cambio, quizás sea Nicholas Negroponte quien pudo vislumbrar ese cambio que se avecinaba con más nitidez dada su posición privilegiada como fundador y director del MIT Medialab, un instituto de investigación heterogéneo y centro de referencia en innovaciones tecnológicas con sinergias de colaboración en varias áreas de desarrollo. Esto le permitió conocer de primera mano y vislumbrar el potencial de investigaciones emergentes que rápidamente saldrían del laboratorio a la sociedad, y que plasma en su libro *Ser Digital* vaticinando que habrá que “saber la diferencia entre bits y átomos” (Negroponte, 1995). En ese libro, presagio de los muchos cambios que acontecieron en el inicio del siglo XXI, habla de la paradoja del escribir en formato libro (cuando en esas fechas el avance de uso de tecnología digital multimedia es exponencial) ya que está pensado para las personas que todavía no han dado el todavía el paso a digital, y usa el poder de la palabra escrita porque *suelta destellos de imágenes y evoca metáforas que adquieren significado a partir de la imaginación y de las propias experiencias del lector* (Negroponte, 1995). 
+
+También nos habla de la transformación de los átomos en bits y la transformación socioeconómica que eso implica, como por ejemplo, “los primeros átomos de entretenimiento que se sustituirán por bits son los videos de alquiler” (Negroponte, 1995). Incidiendo en esa idea, plantea que será un cambio generalizado, en ese proceso de digitalizar la información “transformando todos los medios en bits”, tendrá como consecuencia la mezcla y combinación inmediata de todos esos tipos de contenidos. En su libro habla de la multimedia, concepto que posteriormente otros autores extienden hacia la remediación e hibridación 
 Ahora, más de dos décadas después y con una pandemia mundial por medio que ha aislado a las personas en sus casas durante meses, vemos cómo los vídeos bajo demanda y el streaming son el medio habitual de ocio en las familias. Los libros siguen teniendo su espacio, pero ya existen dispositivos para almacenarlos y leerlos en cualquier lugar, o bien aplicaciones que leen por tí y te permiten “escucharlo”. 
 
 Esta transformación vertiginosa (y a veces traumática) nos ha situado en un contexto (nunca imaginado en la historia de la humanidad) de acceso a la información al instante, (hiper-)comunicación en tiempo real, asistentes de todo tipo para toma de decisiones y una inimaginable cantidad de nuevas posibilidades que supera nuestra imaginación, y todo ello a través de un acceso tan sencillo y simple como es un teléfono móvil y conexión a la *red*. 
@@ -55,7 +57,47 @@ En poco tiempo (década de los 40) surgen los primeros ordenadores con caracter�
 El problema del tamaño, su coste y la relativa complejidad para su programación son el motivo de este entorno cerrado sólo para científicos, que se extendería hasta la década de los 80 con la aparición de los microprocesadores. 
 Sin embargo, eso no era impedimento para que surgieran los pioneros con incursiones en prácticas artísticas creativas generadas por ordenador. Autores como Manfred Mohr, Michael Noll o George Ness entre otros experimentan con la generación de dibujos programados mediante técnicas de *modularidad*, *recurrencia* y *aleatoriedad* (Franke, 1985). En la Figura 1 podemos ver una obra de G. Ness y a su derecha, el código de programa (escrito en Processing) con el tutorial explicando el proceso (http://www.artsnova.com/Nees_Schotter_Tutorial.html)  
 
-![img](https://lh4.googleusercontent.com/A7MqbXNVaz2EybhkSGszPh3UG9xBVjyE-gvU2s3qNIkbSGF7f8mFiHrAjUM1Q_r9Dv6St7wGwfLyyHFWrb6ZHT6CZEM6PbOPjcMF02Le5N2uUBgPDDXXzvEzE6QptyMi1LBzaRU)// Georg Nees Schotter // Reproduction by Jim Plaxco, www.artsnova.comint columns = 12;    // number of columns of squaresint rows = 22;     // number of rows of squaresint sqrsize=30;     // size of each squarefloat rndStep=.22;   // Rotation Increment in degrees float randsum=0;    // Cumulative rotation value int padding=2*sqrsize; // margin areafloat randval;     // random value for translation and rotationfloat dampen=0.45;   // soften random effect for translation void setup() {  size((columns+4)*sqrsize,(rows+4)*sqrsize);  background(255);  // set background color to white stroke(0);     // set pen color to black smooth();     // use line smoothing  noFill();     // do not fill the squares with color rectMode(CENTER); // use x,y value as the center of the square noLoop();     // execute draw() just one time} // end of setup() void draw() { for (int y=1; y <= rows; y++){  randsum += (y*rndStep); // Increment the random value  for (int x=1; x <= columns; x++) {   pushMatrix();   randval = random(-randsum,randsum);  translate(padding + (x * sqrsize) - (.5*sqrsize) + (randval*dampen),padding + (y * sqrsize) - (.5*sqrsize) + (randval*dampen));   rotate(radians(randval));   rect(0,0,sqrsize,sqrsize);   popMatrix();  } // end of x loop } // end of y loop} // end of draw()Figura 1. Schotter (Georg Nees, 1965) y su código equivalente en Processing  
+![img](https://lh4.googleusercontent.com/A7MqbXNVaz2EybhkSGszPh3UG9xBVjyE-gvU2s3qNIkbSGF7f8mFiHrAjUM1Q_r9Dv6St7wGwfLyyHFWrb6ZHT6CZEM6PbOPjcMF02Le5N2uUBgPDDXXzvEzE6QptyMi1LBzaRU)
+
+
+~~~
+// Georg Nees Schotter 
+// Reproduction by Jim Plaxco, [www.artsnova.com](www.artsnova.com)
+
+int columns = 12;    // number of columns of squares
+int rows = 22;     // number of rows of squares
+int sqrsize=30;     // size of each square
+float rndStep=.22;   // Rotation Increment in degrees 
+float randsum=0;    // Cumulative rotation value 
+int padding=2*sqrsize; // margin area
+float randval;     // random value for translation and rotation
+float dampen=0.45;   // soften random effect for translation 
+
+void setup() {  
+       size((columns+4)*sqrsize,(rows+4)*sqrsize);  
+       background(255);  // set background color to white 
+       stroke(0);     // set pen color to black 
+       smooth();     // use line smoothing  
+       noFill();     // do not fill the squares with color 
+       rectMode(CENTER); // use x,y value as the center of the square 
+       noLoop();     // execute draw() just one time
+       } // end of setup() 
+       
+ void draw() {
+    for (int y=1; y <= rows; y++) {  
+    randsum += (y*rndStep); // Increment the random value  
+    for (int x=1; x <= columns; x++) {   
+          pushMatrix();   
+          randval = random(-randsum,randsum);  
+          translate(padding + (x * sqrsize) - (.5*sqrsize) + (randval*dampen),padding + (y * sqrsize) - (.5*sqrsize) + (randval*dampen));
+          rotate(radians(randval));   
+          rect(0,0,sqrsize,sqrsize);   
+          popMatrix();  
+          } // end of x loop 
+      } // end of y loop
+  } // end of draw()  
+~~~
+Figura 1. Schotter (Georg Nees, 1965) y su código equivalente en Processing
 
 
 De ese modo, las limitaciones inherentes a esas primeras máquinas computacionales abrió paso a una creatividad basada en modelos matemáticos para crear los primeros algoritmos que mediante funciones recurrentes representaban los primeros fractales, o el uso de sucesiones de fibonacci para crear bellas representaciones visuales en toscos aparatos de representación. Se puede visitar estas obras y conocer los artistas en el Museo de Arte Digital (DAM), proyecto surgido en Alemania y que preserva obras de estos pioneros. 
