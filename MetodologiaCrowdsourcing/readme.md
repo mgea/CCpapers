@@ -8,7 +8,7 @@
 ### Miguel Gea Megías, Universidad de Granada, 2022
 
 > (Versión Creative Commons del artículo contenido en libro Transmedialización y crowdsourcing en la cultura mediática contemporánea,  J. Alberich D.  Sánchez-mesa (eds.) pp 35-57, Ed. Universidad de Granada, ISBN 978-84-338-6929-6 
-> Disponible en Editorial Universidad de Granada en formato [libro](https://editorial.ugr.es/static/Emanagement/*/detalle_libro/transmedializacion-y-crowdsourcing-en-la-cultura-mediatica-conte) o  [ebook](https://editorial.ugr.es/static/Emanagement/*/detalle_libro/e-book-1000-e-transmedializacion-y-crowdsourcing-en-la-cultura-m) y [Versión Creative Commons](https://github.com/mgea/CCpapers/blob/main/MetodologiaCrowdsourcing/readme.md) (updated 21/01/2022)
+> Disponible en Editorial Universidad de Granada en formato [libro](https://editorial.ugr.es/static/Emanagement/*/detalle_libro/transmedializacion-y-crowdsourcing-en-la-cultura-mediatica-conte) o  [ebook](https://editorial.ugr.es/static/Emanagement/*/detalle_libro/e-book-1000-e-transmedializacion-y-crowdsourcing-en-la-cultura-m) y [Versión Creative Commons](https://github.com/mgea/CCpapers/blob/main/MetodologiaCrowdsourcing/readme.md) (ver 1.0 updated 21/01/2022)
 
 
 
@@ -362,6 +362,10 @@ Las posturas casi evangélicas de Stallman o el pragmatismo de Lessig ya son pie
 * w3school: https://www.w3schools.com/ 
 * (R. Kurzweil, 2014) TED talk crecimiento exponencial:  https://www.youtube.com/watch?v=IfbOyw3CT6A 
 
+
+### Changelog 
+
+* Ver 1.0. 21/01/2022 - Versión en formato MarkDown del capítulo de libro
 
 
 ![CCBYSA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png) 
