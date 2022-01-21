@@ -361,3 +361,6 @@ Las posturas casi evangélicas de Stallman o el pragmatismo de Lessig ya son pie
 * w3school: https://www.w3schools.com/ 
 * (R. Kurzweil, 2014) TED talk crecimiento exponencial:  https://www.youtube.com/watch?v=IfbOyw3CT6A 
 
+
+
+![CCBYSA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png) Miguel Gea, Jan 2022
