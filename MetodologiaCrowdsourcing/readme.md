@@ -363,4 +363,5 @@ Las posturas casi evangélicas de Stallman o el pragmatismo de Lessig ya son pie
 
 
 
-![CCBYSA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png) Miguel Gea, Jan 2022
+![CCBYSA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png) 
+Miguel Gea, Jan 2022
