@@ -7,7 +7,7 @@
 
 ### Miguel Gea Megías, Universidad de Granada, 2022
 
-> (Versión Creative Commons del artículo contenido en libro Transmedialización y crowdsourcing en la cultura mediática contemporánea, J. Alberich D.  Sánchez-mesa (eds.),  Ed. Universidad de Granada, ISBN 978-84-338-6929-6
+> (Versión Creative Commons del artículo contenido en libro Transmedialización y crowdsourcing en la cultura mediática contemporánea,  J. Alberich D.  Sánchez-mesa (eds.) pp 35-57, Ed. Universidad de Granada, ISBN 978-84-338-6929-6
 
 
 
