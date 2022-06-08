@@ -11,7 +11,7 @@
 > Disponible en Editorial Universidad de Granada en formato [libro](https://editorial.ugr.es/static/Emanagement/*/detalle_libro/transmedializacion-y-crowdsourcing-en-la-cultura-mediatica-conte) o  [ebook](https://editorial.ugr.es/static/Emanagement/*/detalle_libro/e-book-1000-e-transmedializacion-y-crowdsourcing-en-la-cultura-m) y [Versión Creative Commons](https://github.com/mgea/CCpapers/blob/main/MetodologiaCrowdsourcing/readme.md) (ver 1.0 updated 21/01/2022)
 
 
-
+en revision
 
 El cambio hacia una cultura digital está transformando radicalmente nuestra sociedad tal y como se concebía hasta nuestros días. 
 La irrupción de la tecnología ha dado lugar a un cambio profundo de nuestros hábitos y la proliferación de nuevos medios. 
