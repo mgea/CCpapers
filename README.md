@@ -10,7 +10,7 @@ Artículos:
  Disponible en Editorial Universidad de Granada en formato [libro](https://editorial.ugr.es/libro/transmedializacion-y-crowdsourcing-en-la-cultura-mediatica-contemporanea_138830/) o  [ebook](https://editorial.ugr.es/static/Emanagement/*/detalle_libro/e-book-1000-e-transmedializacion-y-crowdsourcing-en-la-cultura-m) y [Versión Creative Commons](https://github.com/mgea/CCpapers/blob/main/MetodologiaCrowdsourcing/readme.md) (updated 21/01/2022)
  
  
- * Miguel Gea (2022) **Creación de narrativas digitales mediante Scrollytelling** [Versión Creative Commons](https://github.com/mgea/CCpapers/blob/main/ScrollyTelling/readme.md) (updated 03/08/2022)
+ * Miguel Gea (2022) **Creación de narrativas digitales mediante Scrollytelling** [Versión Creative Commons](https://github.com/mgea/CCpapers/blob/main/Scrollytelling/readme.md) (updated 03/08/2022)
  
 
 
