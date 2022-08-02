@@ -1,15 +1,8 @@
-#Creación de narrativas digitales mediante Scrollytelling 
+# Creación de narrativas digitales mediante Scrollytelling 
 
 ### Miguel Gea Megías, Universidad de Granada
 
 > (Versión 1.0 Creative Commons, Julio 2022,  )
-
-
-
-
-
-3821 HXN, 
-
 
 
 
@@ -33,9 +26,6 @@
 
 
 ## Términos y estrategias para storytelling
-
-> ccc
-
 
 
 Cada vez es más importante la información visual en Internet.
