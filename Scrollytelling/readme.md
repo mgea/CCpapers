@@ -280,69 +280,130 @@ En cualquier caso, al tratarse de librerías externas, se deben inclluir en el p
 
 Algunos de los conceptos básicos de la llibrería (GSAP/ScrollTrigger) que se deben conocer para poder diseñar una narratica con scrolling se presentan a continuación (se recomienda tener una noción mínima básica de conceptos relacionados con JS/CSS)
 
+
+
+
+
 ##### Animación con GSAP
 
 La animación de elementos CSS es una herramienta muy potente para el diseño web, y los fundamentos se basan en los mismos principios de interpolación que aplicaba Walt Disney en las primeras pellículas de dibujos animados. La interpolación consiste en un cambio de propiedades de un objeto CSS desde una posición inicial a otra final. El cambio se puede aplicar a cualquiera de las propiedades que posee un elemento CSS: posición X, Y, opacidad, color, tamaño, etc.
 
-
-
 * **gsap.to()**
 
-  Esta funcion GSAP hace que varíen las propiedades de un elemento CSS desde la posición inicial (con las que fue creado) hasta las propiedades que se indican el destino final. 
+  Esta funcion GSAP hace que varíen las propiedades de un elemento CSS desde la posición inicial (con las que fue creado) hasta las propiedades que se indican el destino final. El primer argumento es el elemento CSS al que se le va a aplicar la animación y el segundo (entre lllaves) son todos los cambios de valores que se aplicarán (rotación, movimiento) y el tiempo que tarda en hacer la animación.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="wvwEOZL" data-user="GreenSock" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/GreenSock/pen/wvwEOZL">
-  GSAP Basic Tween</a> by GreenSock (<a href="https://codepen.io/GreenSock">@GreenSock</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+```javascript
+	gsap.to(".box", {rotation: 27, x: 100, duration: 1});
+```
 
-
+​	ejemplo en codepen: https://codepen.io/GreenSock/pen/wvwEOZL
 
 * **gsap.from()**
 
+  Es similar en cuanto a la estructura de la sintaxis, e indicando los valores iniciales (los finales son los descritos en el cuerpo del CSS)
 
+* **gsap.fromTo()**
 
-* gsap
+  En este caso, se definen parámetros de inicio y fin en la misma función. 
 
-
-
-**Plugin ScrollTrigger** 
-
-
-
-A continuación vamos a describir una forma de diseñar contenidos on **scrollytelling** usando librerías de código abierto en Javascript. 
-
+```javascript
+	gsap.fromTo(".box", {opacity: 0}, {opacity: 0.5, duration: 1});
+```
 
 
 
+Algunas de las propiedades que podemos ajustar con GSAP permiten controlar la animación. En este ejemplo podemos ver efectos de *delay* y *easing* (tipo de interpolación)
 
-
-
+​	ejemplo 01animateXYZ_gsap en codepen: https://codepen.io/mediaUX/pen/vYpdZgZ 
 
 
 
 
 
+##### Conceptos necesarios para realizar un Scrolling con ScrollTrigger 
 
 
+
+La creación de una animación mediante scroll es relativamente sencillo si tenemos en cuenta los siguienes conceptos. Partimos  de unas clases en CSS que se definen las características de un elemento (al cual  queremos modificar sus propiedades con el scroll). Además, hay que tener en cuenta los la ubicación (relativa) de los elmentos en la pantalla (en su dimensión vertical). **El momento en el que se activa el efecto de scroll será cuando un elemento del CSS alcanza una posición** (denominada *hook*) en la pantalla (alcanza la parte superior, la central, la inferior, etc.).  **El momento de activación se senomina *trigger*** y en este caso, (para simplificar) se asocia al momento en el que un elemento del CSS (que es el activador o trigger) alcanza la posición de disparo (gancho o  hook). 
+
+Esta forma de realiza la activación del efecto de scroll es conceptualmente similar al comportamiento al pulsar un botón. El botón es un elemento del CSS y la forma de activación es mediante el desplazamiento del cursor hasta ponerlo encima del área caliente del botón. En ese caso, hemos sustituido el desplazamiento por scroll (del cual solo nos interesa la posición en vertical) por el movimiento del ratón (en el eje X,Y). La activación (trigger) es cuando se pulsa el botón izquierdo, mientras que en el caso del scroll, se activa automáticamente cuando se llega a esa posición (por lo que es más parecido a un comportamiento de mouse over que no requiere de clic de ratón)  
+
+  
+
+![image-20220815210347392](/img/scrolll-1.png)
+
+- **Trigger -** Elemento CSS que activa la acción. Generalmente coincide con el componente al que queremos aplicar una animación (o cambio de propiedades de su CSS)
+
+- **Animation -** Transición animada (de propiedades CSS) que se activa con scroll (tiene un inicio-fin + duración en pixeles) 
+
+- **Hook -** Lugar de la pantalla donde comienza el efecto (las posiciones predefinidas son: **top**, **center**, **bottom** o un valor entre 0..1 indicando el desplazamiento normalizado desde la esquina superior)
+
+- **Pin -** Objeto que se fija a una posición de la pantalla (colocar en posición absoluta sin afectar scroll) y también puede tener duración
+
+- **Markers -** Marcas auxiliares de ayuda para visualizar dónde empieza y termina un efecto de animación con scroll 
+
+- **Containers** - Componentes <div> del CSS a los que se aplica transformación con Scroll 
+
+![image-20220815205853582](/img/scrolll-2.png)
+
+En este caso vemos que al desplazar la página con scroll, los elementos comienzan a subir desde la parte inferior, y cuando el elemento trigger (el cuadrado naranja) alcanza la posición de activación (hook) situada en la altura media de la pantalla, se le aplica un efecto de desplazamiento y rotación (que tiene una distancia entre start-end donde se aplica y finaliza el efecto de transformación)  
+
+La forma de insertar un efecto de scrollling dentro de una  animación de GSAP es añadiendo este código en la función. 
+
+```js
+gsap.to('.animating-element-trigger',  {
+
+  scrollTrigger: {
+    trigger: '.animating-element-trigger', 
+    start: 'top center',
+    end: 'bottom center’,
+    scrub: true
+    },
+  y: '50%',
+  color: ‘red'
+})
+```
+
+La sintasis es relativamente sencilla de comprender, y estos son los valores que se pueden usar y su significado 
+
+```javascript
+scrollTrigger: { 
+      trigger: ".selector", // DOM disparador del scroll(obligatorio) 
+      start: "top center", // [trigger] [scroller] positions 
+      end: "top top", // [trigger] [scroller] positions 
+      
+      scrub: true, // true= efecto de adelante y atrás en scroll 
+      pin: true,   // true= el elemento se inmoviliza (pin)
+      horizontal: true, // true= scroll en modo horizontal 
+
+       // ayuda para el diseño 
+      markers: true, // muestra las marcas de inicio y fin (hook) 
+      id: “scroll-1” // nombre que se asocia al scroll para debug  
+    }
+```
+
+Las posiciones de inicio (start) y fin (end) son dos pares de valores que se refieren a la posición relativa del elemento disparador (primer valor) y la posición de pantalla (segundo valor). Se pueden usar valores lógicos (top center bottom), bien numéricos (valor normalizado entre 0 y 1) o de porcentajes (0% - 100%)
 
 
 
 * Chethiyawardhana, Manusha (2022) Top JavaScript Animation Libraries in 2022, Medium blog website (24/08/2022)  https://javascript.plainenglish.io/top-10-javascript-animation-libraries-f11e9bb6085a
 
+* **ScrollTrigger Tutorial for Beginners** – Part 1 https://ihatetomatoes.net/scrolltrigger-tutorial-for-beginners/ 
 
+* **Get Started with ScrollTrigger in 3 Easy Steps** https://greensock.com/st-get-started/ Video: https://www.youtube.com/watch?v=CES3seLtepM
 
+* W. Chase (2020) **Scrollytelling with GSAP ScrollTrigger** https://www.williamrchase.com/post/scrollytelling-with-gsap-scrolltrigger/ 
 
+* GreenSock Cheat Sheet https://ihatetomatoes.net/greensock-cheat-sheet/
 
+* **GSAP Development tool** línea de tiempo de ayuda al desarrollo https://greensock.com/gsdevtools/ 
 
-
-
+  
 
 
 ## Conclusiones
 
-XXXX 
+El uso de scrollytellling  se ha puesto de moda a partir de 2010, por una parte por su capacidad de crear narrativas inmersivas que has sido utilizadas por el periodismo para adaptar relatos a un formato digital de contenido largo 
 
 
 
