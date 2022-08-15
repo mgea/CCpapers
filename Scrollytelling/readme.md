@@ -59,7 +59,7 @@ Cada vez es más importante la información visual en Internet. Algunos de los c
 
 * El efecto **Parallax scrolling** se popularizó con [gráficos 2D](https://en.wikipedia.org/wiki/2D_computer_graphics) y en los [videojuegos](https://en.wikipedia.org/wiki/Video_game) basados en el modelo de [arcade games](https://en.wikipedia.org/wiki/Arcade_games) y las imágenes de fondo se mueven más lentas que las de frente, creando un efecto de animación con profundidad  
 
-  ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Parallax_scroll.gif/220px-Parallax_scroll.gif)
+  ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Parallax_scroll.gif/220px-Parallax_scroll.gif = 250x250)
 
 * Se denomina **Scrollytelling** a la técnica de visualización de contenidos dependiendo del movimiento, que proviene de combinar *scroll* («desplazamiento») con *storytelling* («contar historias») (Goldenberg, 2017), es decir: *Websites that Tell a Story As You Scroll*    
 
@@ -163,11 +163,13 @@ Aunque hay infinidad de posibilidades para organizar la narrativa mediante scrol
 
 
 
-<img src="https://miro.medium.com/max/1400/1*HFpNEQrptkmEHlVBs3kUXw.gif" alt="long scrolling background" style="zoom:15%;" />
+<img src="https://miro.medium.com/max/1400/1*HFpNEQrptkmEHlVBs3kUXw.gif" alt="long scrolling background" width="300" />
 
+   ![ParallaxScrolling](https://miro.medium.com/max/1400/1*HFpNEQrptkmEHlVBs3kUXw.gif | width=100px) 
    
 
 * **Parallax Scrolling.** En este caso la composición se hace mediante la superposición de varias imágenes que se organizan en capas y cada una de ellas posee diferente velocidad de movimiento  para dar sensación de profundidad mientras se navega con scroll. En este caso, se hace una presentación multicapa del contenido, pero se respeta la organización de dos niveles (*background & foreground*). En este caso, el contenido del fondo se divide en multiples capas, con imágenes que están dispuestas a diferentes distancias para dar profundidad a la escena. El movimiento de scroll ayuda a reforzar la sensación de profundidad multinivel jugando con la perspectiva, haciendo que las capas que estén más distantes se muevan más lentas que las que están más cercanas al usuario (https://visualcomposer.com/blog/parallax-effects/). Ejemplos en https://www.invisionapp.com/inside-design/10-examples-of-parallax-scrolling/ 
+
 
 ![ParallaxScrolling](https://s3.amazonaws.com/www-inside-design/uploads/2019/06/image9.gif) 
 
