@@ -314,7 +314,7 @@ La animación de elementos CSS es una herramienta muy potente para el diseño we
 
 Algunas de las propiedades que podemos ajustar con GSAP permiten controlar la animación. En este ejemplo podemos ver efectos de *delay* y *easing* (tipo de interpolación)
 
-​	ejemplo 01animateXYZ_gsap en codepen: https://codepen.io/mediaUX/pen/vYpdZgZ 
+	ejemplo 01animateXYZ_gsap en codepen: https://codepen.io/mediaUX/pen/vYpdZgZ 
 
 
 
@@ -330,7 +330,7 @@ Esta forma de realiza la activación del efecto de scroll es conceptualmente sim
 
   
 
-![image-20220815210347392](/img/scrolll-1.png)
+![image-20220815210347392](img/scrolll-1.png)
 
 - **Trigger -** Elemento CSS que activa la acción. Generalmente coincide con el componente al que queremos aplicar una animación (o cambio de propiedades de su CSS)
 
@@ -344,7 +344,7 @@ Esta forma de realiza la activación del efecto de scroll es conceptualmente sim
 
 - **Containers** - Componentes <div> del CSS a los que se aplica transformación con Scroll 
 
-![image-20220815205853582](/img/scrolll-2.png)
+![image-20220815205853582](img/scrolll-2.png)
 
 En este caso vemos que al desplazar la página con scroll, los elementos comienzan a subir desde la parte inferior, y cuando el elemento trigger (el cuadrado naranja) alcanza la posición de activación (hook) situada en la altura media de la pantalla, se le aplica un efecto de desplazamiento y rotación (que tiene una distancia entre start-end donde se aplica y finaliza el efecto de transformación)  
 
