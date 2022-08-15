@@ -163,21 +163,33 @@ Aunque hay infinidad de posibilidades para organizar la narrativa mediante scrol
 
 
 
-<img src="https://miro.medium.com/max/1400/1*HFpNEQrptkmEHlVBs3kUXw.gif" alt="long scrolling background" style="zoom:25%;" />
+<img src="https://miro.medium.com/max/1400/1*HFpNEQrptkmEHlVBs3kUXw.gif" alt="long scrolling background" style="zoom:15%;" />
 
    
 
 * **Parallax Scrolling.** En este caso la composición se hace mediante la superposición de varias imágenes que se organizan en capas y cada una de ellas posee diferente velocidad de movimiento  para dar sensación de profundidad mientras se navega con scroll. En este caso, se hace una presentación multicapa del contenido, pero se respeta la organización de dos niveles (*background & foreground*). En este caso, el contenido del fondo se divide en multiples capas, con imágenes que están dispuestas a diferentes distancias para dar profundidad a la escena. El movimiento de scroll ayuda a reforzar la sensación de profundidad multinivel jugando con la perspectiva, haciendo que las capas que estén más distantes se muevan más lentas que las que están más cercanas al usuario (https://visualcomposer.com/blog/parallax-effects/). Ejemplos en https://www.invisionapp.com/inside-design/10-examples-of-parallax-scrolling/ 
 
-<img src="https://s3.amazonaws.com/www-inside-design/uploads/2019/06/image9.gif" alt="ParallaxScrolling" style="zoom: 25%;" />
-
+![ParallaxScrolling](https://s3.amazonaws.com/www-inside-design/uploads/2019/06/image9.gif) 
 
 
 * **Scroll Trigger Animation**. Este es un caso más genérico donde tanto los elementos que forman parte del fondo como los de primer plano (contenido) poseen un movimiento que se sincroniza con el desplazamiento por scroll. 
 
+![parallax Scrolling example](https://lattimoreandfriends.com/wp-content/uploads/2021/08/1_fullsite.gif) 
 
-  <img src="https://lattimoreandfriends.com/wp-content/uploads/2021/08/1_fullsite.gif" alt="parallax Scrolling example" style="zoom: 25%;" /> 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <img src="https://miro.medium.com/max/1400/0*nrrhk1Cxh8ZiLbMm.gif" alt="parallax Scrolling example" style="zoom: 20%;" />
 
   El uso de animación de los diferentes contenidos (assets) con scroll permite hacer combinaciones de diferentes  tipos de efectos, de los que destacan: 
@@ -207,7 +219,7 @@ Aunque hay infinidad de posibilidades para organizar la narrativa mediante scrol
 <img src="https://visualcomposer.com/wp-content/uploads/2019/11/Parallax-gifs-kikk-min.gif" alt="tilt" style="zoom:25%;" />
 
 
-
+https://lattimoreandfriends.com/wp-content/uploads/2021/08/1_fullsite.gif
 
 
 **Buenas prácticas**
