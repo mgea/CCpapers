@@ -176,6 +176,8 @@ Aunque hay infinidad de posibilidades para organizar la narrativa mediante scrol
 * **Scroll Trigger Animation**. Este es un caso más genérico donde tanto los elementos que forman parte del fondo como los de primer plano (contenido) poseen un movimiento que se sincroniza con el desplazamiento por scroll. 
 
   ![airpord_web](img/airpod_mini.gif) 
+  
+  ![kiddy_web](img/kiddyweb_mini.gif) 
 
   <img src="https://lattimoreandfriends.com/wp-content/uploads/2021/08/1_fullsite.gif" alt="parallax Scrolling example" style="zoom: 25%;" />  <img src="https://miro.medium.com/max/1400/0*nrrhk1Cxh8ZiLbMm.gif" alt="parallax Scrolling example" style="zoom: 30%;" />
 
