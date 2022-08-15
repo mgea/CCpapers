@@ -420,19 +420,9 @@ El uso de scrollytellling  se ha puesto de moda a partir de 2010, por una parte 
 * Wyatt, Paul (2007) The art of parallax scrolling.net https://web.archive.org/web/20091007223458/http://mos.futurenet.com/pdf/net/NET165_tut_flash.pdf
 
 
-
-
-
 * Goldenberg, Russell (2017) *How to implement scrollytelling with six different libraries*. Jun 2017. Online https://pudding.cool/process/how-to-implement-scrollytelling/
 * Microsiervos: http://www.microsiervos.com/archivo/ordenadores/scrollytelling-contenidos-movimiento.html (español de art. de Goldenberg)
 * @SICKMONKEYS. ¿Qué es el Parallax y cómo se hace? (con ejemplos) https://www.40defiebre.com/nueva-dimension-web-parallax/
-
-
-
-
-
-
-
 * 
 * Grafika Studio (2016) **How To Design A Storytelling Website**. https://www.grafikastudio.com.au/blog/2016/2/9/how-to-design-a-storytelling-website 
 * L. Amabili (2019) **From Storytelling To Scrollytelling: A Short Introduction and Beyond**. Medium https://medium.com/nightingale/from-storytelling-to-scrollytelling-a-short-introduction-and-beyond-fbda32066964	
@@ -441,65 +431,3 @@ El uso de scrollytellling  se ha puesto de moda a partir de 2010, por una parte 
 * M. Pettersen (2019) **What is Scrollytelling?** Its Impact on Digital Content. LearnHub (https://learn.g2.com/scrollytelling) y en https://www.vev.design/space/what-is-scrollytelling/
 * 
 * 
-* 
-* Alberich, Jordi: *Elementos de la creatividad multimedia: apropiación, remediación, hibridación*, Revista online Mosaic, enero 2018, nº 156. ISSN: 1696-3296. DOI: https://doi.org/10.7238/m.n156.1803
-* Bauman, Zygmunt. *Modernidad líquida*. 2000 Blackwell Publisher
-* Brabham, Daren C.  *Crowdsourcing*, The MIT Press, 2013 
-* Bush, Vannevar. *As We May Think*. The Atlantic, Vol 176, Nº 1; pag. 101-108. 1945 Online: https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/ 
-
-
-
-* Cobo Romaní, Cristóbal; Pardo Kuklinski, Hugo. *Planeta Web 2.0. Inteligencia colectiva o medios fast food*. Grup de Recerca d'Interaccions Digitals, Universitat de Vic, Flacso México. Licencia CCBYNCND 2.5 2007 Disponible online: https://universoabierto.org/2016/07/20/planeta-web-2-0-inteligencia-colectiva-o-medios-fast-food/ 
-* Cornella, Alfons. *Cómo sobrevivir a la infoxicación.* conferencia del acto de entrega de títulos de los programas de Formación de Posgrado del año académico 1999-2000. Disponible online en: https://www.academia.edu/download/56656821/Sobrevivir_infoxicacion.pdf 
-* Isaacson, Walter. *The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution*, Random House Mondadori, 2014 
-* Franke, Herbert W. *Computer Graphics - Computer Art*. Springer- Verlag, 1985
-* Halbwachs, Maurice. *The collective memory*, New York, Harper & Row Colophon Books, 1980
-* Horrigan, J. B. (2016). *Information Overload*. Washington D. C, Pew Research, 2016
-* Howe, Jeff. *The rise of Crowsourcing,* Wired Wired magazine, V. 14, Nº 6, 2006. Online: https://www.wired.com/2006/06/crowds/ 
-* Jenkins, Henry. *Confronting the Challenges of Participatory Culture: Media Education for the 21st Century*, Blog personal, 2006 Online:  http://henryjenkins.org/blog/2006/10/confronting_the_challenges_of.html 
-* Kay, Alan; Goldberg, Adele. *Personal Dynamic Media*, IEEE Computer. Vol. 10, Nº 3 1977
-* Kay, Alan. *User Interface, a personal view*. En Laurel, B. *The Art of human-computer interface design*, capítulo 13, pág. 193. Addison Wesley, 1990
-* Leibowit, Glen. *Steve Jobs Believed Everyone Should Learn This 1 SkillIt's an essential skill we all rely on every day of our lives. Inc Journal,* Jun, 2017. Online: https://www.inc.com/glenn-leibowitz/steve-jobs-believed-everyone-should-learn-this-1-s.html 
-* Lévy, Pierre. *Collective intelligence: mankind's emerging world in cyberspace: La cultura de la sociedad digital*, Cambridge Perseus Book, 1997.
-* Manovich, Lev. *The Language of New Media*. Massachusetts Institute of Technology Press. 2001
-
-
-
-* Tapscott, D., A.D. Williams (2006). *Wikinomics. How Mass Collaboration ChangesEverything*. New York: Penguin
-* Toffler, Alvin: *La tercera Ola*, Bantam Books, 1980
-* UNESCO: *Open Educational Resources (OER)*. 2021. Online https://en.unesco.org/themes/building-knowledge-societies/oer 
-* Weiser, Mark. *The computer for the 21st Century*. Art. Scientific American, Vol. 265, No. 3, 1991. Online: https://www.lri.fr/~mbl/Stanford/CS477/papers/Weiser-SciAm.pdf 	
-
-
-## Referencias Web
-
-* Media research laboratory at the Massachusetts Institute of Technology [MIT Medialab](https://www.media.mit.edu/) - https://www.media.mit.edu/
-* [Processing](https://processing.org) - https://processing.org
-* Museo de Arte Digital ([DAM]( https://dam.org/)) - https://dam.org/
-* (Ivan E. Sutherland, 1963)[*Sketchpad*](https://history-computer.com/software/sketchpad-complete-history-of-the-sketchpad-computer-program/) - https://history-computer.com/software/sketchpad-complete-history-of-the-sketchpad-computer-program/
-* (D. Engelbart, 1968) [*The Mother of All Demos*](https://www.youtube.com/watch?v=yJDv-zdhzMY) - https://www.youtube.com/watch?v=yJDv-zdhzMY
-* Anuncio de Apple Macintosh en [SuperBowl de 1984](https://www.youtube.com/watch?v=zIE-5hg7FoA) - https://www.youtube.com/watch?v=zIE-5hg7FoA
-* Xerox Parc (historia): https://www.parc.com/about-parc/parc-history/
-* (Tim Berners-Lee, 1989) Informe sobre Esquirre: http://info.cern.ch/Proposal.html 
-* (Tim O'Reilly) What is Web 2.0: https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html
-* You Time Person of the year, 2006:  https://public.opendatasoft.com/explore/dataset/times-person-of-the-year/ 
-* Creative Commons: https://creativecommons.org/licenses/ 
-* Kirby Ferguson: [*Everything is a Remix*](http://www.everythingisaremix.info) - http://www.everythingisaremix.info 
-* Ken Robinson: [*Changing Paradigms*](https://www.youtube.com/watch?v=Z78aaeJR8no) - https://www.youtube.com/watch?v=Z78aaeJR8no
-* MIT OpenCourseware: https://ocw.mit.edu/about/milestones/ 
-* The Radiohead Public Library: https://radiohead.com/library/
-* (Kevin Macdonald, Ridley Scott, 2011) Life in a Day https://www.youtube.com/watch?v=JaFVr_cJJIY 
-* Life in a Day Website:  https://www.youtube.com/lifeinaday 
-* (Milk, Koblin, 2012) Johnny Cash Project [http://www.thejohnnycashproject.com](http://www.thejohnnycashproject.com/) - http://www.thejohnnycashproject.com/
-* Johnny Cash Project Ain’t no grave videoclip: https://www.youtube.com/watch?v=PBmky9Tx2UM 
-* Johnny Cash Project *Making of* del videoclip: https://www.youtube.com/watch?v=WwNVlNt9iDk  
-* This Exquisite forest: http://www.aaronkoblin.com/project/this-exquisite-forest/
-* LifeLong Kindergarden MIT  https://www.media.mit.edu/groups/lifelong-kindergarten/overview/ 
-* Lenguaje Scratch - https://scratch.mit.edu 
-* Github - https://github.com/ 
-* Messy curve draw (@Sen) https://openprocessing.org/sketch/486307 
-* CodePen: https://codepen.io/pavelsuraba/pen/ldHya 
-* w3school: https://www.w3schools.com/ 
-* (R. Kurzweil, 2014) TED talk crecimiento exponencial:  https://www.youtube.com/watch?v=IfbOyw3CT6A 
-
-
