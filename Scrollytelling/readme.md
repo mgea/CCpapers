@@ -22,7 +22,7 @@
 
 
 
-El año 2013 ha sido destacado por el **NYTimes como el año del storytelling interactivo* (www.nytimes.com/newsgraphics/2013/12/30/year-in-interactive-storytelling/ Cada vez se publican más contenidos donde se propone una participación activa del lector, ya sea para las noticias de un periódico, para la creación de libros o para la narración audiovisual. Su uso empieza a ser fundamental para creación de historias narradas en formato multimedia, visualización de datos, etc. 
+El año 2013 ha sido destacado por el *NYTimes como el año del storytelling interactivo* (www.nytimes.com/newsgraphics/2013/12/30/year-in-interactive-storytelling/ Cada vez se publican más contenidos donde se propone una participación activa del lector, ya sea para las noticias de un periódico, para la creación de libros o para la narración audiovisual. Su uso empieza a ser fundamental para creación de historias narradas en formato multimedia, visualización de datos, etc. 
 
 Storytelling es el **arte de contar una historia**. La creación y aprovechamiento de una atmósfera mágica a través del relato. Técnica que consiste en conectar con tus usuarios, ya sea a viva voz, por escrito, o a través de una historia con su personaje y su trama (Millner, 2020)
 
