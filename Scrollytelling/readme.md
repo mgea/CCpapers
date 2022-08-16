@@ -256,8 +256,32 @@ Un buen diseño tiene como objetivo que el usuario se sienta motivado y provoque
 
 
 
+## 6 Diseño de experiencias con scrolling 
 
-## 6 Diseño de scrollytelling mediante JS
+El fundamento de este tipo de narración se basa en el efecto del scroll, que consiste en un desplazamiento por la página web con la ayuda del ratón. Este desplazamiento puede ser en sentido vertical (el más frecuente) o bien horizontal (más usado para juegos de plataformas). 
+
+Para que se pueda producir este desplazamiento la página web se debe diseñar con un tamaño mayor que la dimensión de la ventana en el sentido del desplazamiento y se ajusta la otra dimensión al ancho del dispositivo. Así por ejemplo, en un desplazamiento vertical, la página web se crea para  ajustarse al ancho máximo posible de la pantalla (de modo que no se necesite desplazarse a izquierda o derecha) y se diseña el contenido para que flluya hacia "abajo" (sentido vertical) 
+
+![fundam1](img/fundam-1.png)
+
+
+
+Para realizar el ajuste del diseño, debemos  organizar los contenidos de modo que nos permita predecir su comportamiento, por lo que la forma más cómoda es *creando divisiones virtuales* que sean del tamaño del dispositivo de visualización (en este caso, la altura h) y en cada una de esas secciones virtuales, ir organizando la posición de cada recurso (imagenes y textos). Esta organización nos permite pasar a un formato de bloques en html (usando etiquetas <div>) 
+
+
+![fundam2](img/fundam-2.png)
+
+
+
+
+ 
+
+
+
+
+
+
+## 7 Diseño de scrollytelling mediante JS
 
 Algunas herramientas de diseño (como los editores de Wix, Mobirise, After Effects) permiten realizar efectos sencillo de parallax. Si embargo, para el diseño de este tipo de narrativas (y disponer de mayor control del resultado) es necesario tener  conocimiento sobre desarrollo en HTML5 y sobre las técnicas de animación en CSS/JS. 
 
@@ -431,3 +455,103 @@ El uso de scrollytellling  se ha puesto de moda a partir de 2010, por una parte 
 * M. Pettersen (2019) **What is Scrollytelling?** Its Impact on Digital Content. LearnHub (https://learn.g2.com/scrollytelling) y en https://www.vev.design/space/what-is-scrollytelling/
 * 
 * 
+
+
+
+
+## Catalogo completo de scrolling websites
+
+* **Snow Fall: Avalanche at Tunnel Creek** (2012)   https://www.nytimes.com/projects/2012/snow-fall/
+
+  Creador John Branch,  publicado el 20 de diciembre de 2012 en NYT 
+
+  Snow Fall is a scrollytelling masterpiece. It’s the harrowing tale of a Washington avalanche in 2012. Each part of this story has its own individual page, broken into manageable blocks (Cardello, 2019)
+
+  Premios: The Webby Awwards 2013 (https://winners.webbyawards.com/2013/video/performance-craft/best-use-of-interactive-video/146927/snow-fall-the-avalanche-at-tunnel-creek)
+
+  
+
+* **NASA Prospect**  (2013) http://nasaprospect.com/ 
+
+  Diseñado por estudiantes de la Universdad de Dakota del Norte para ell programas Humans in Space Art de la NASA (Barron, 2015). 
+
+  Awwwards site of the day (2/3/2013) https://www.awwwards.com/sites/nasa-prospect
+
+  Github repo: https://github.com/collinhover/nasaprospect
+
+  
+
+* **Haruki Murakami’s website** (2014) https://www.harukimurakami.com/
+
+  Analizado en (Barron, 2015) muestra las diferentes obras literarias mediante una imagen y una cita. El paso de un llibro al siguiente es mediante scrolling sin que haya movimiento aparente (uso de pining y animación basada en mouse)   
+
+  Awwwards site of the day (27/12/2014) https://www.awwwards.com/sites/haruki-murakami
+
+  
+
+* **The boat** (2015) https://www.sbs.com.au/theboat/ 
+
+  Diseñador: Matt Huynh https://www.matthuynh.com/theboat 
+
+  SBS’s 2015 interactive graphic novel ‘The Boat‘, an adaption of Nam Le’s widely acclaimed anthology released, shares the experience of a young refugee girl escaping the perils of the Vietnamese war. The production movingly exemplifies the innovative nature of interactive journalism, through it’s emotional effectiveness and the truly immersive power created by parallax scrolling (Fadel & Bizzocchi, 2021)  
+
+  
+
+* **Cocainenomics** (2015) https://www.wsj.com/ad/cocainenomics-es 
+  The Wall Street journal lanza “Cocainenomics” un reportaje publicitario para la serie "Narcos" de Netflix (Pettersen 2019)
+
+  
+
+* **Glitter in the Dark** (2016) http://pitchfork.com/features/cover-story/reader/bat-for-lashes/ 
+
+  PitchFork (2016) Revista de Chicago online sobre música independiente. Glitter in the dark Entrevista a Bat for Lashes. 
+
+  
+
+* **Ueno** (2017) https://ueno.co/
+
+  Ueno es una compañía internacional de desarrollo web: https://ueno.co/ y que desarrolla proyectos y sus presentaciones usando diferentes técnicas de scrolling para narrar la historia del proyecto, como el caso del rediseño de las App de noticias de Reuters https://ueno.co/work/reuters-news-app/ o  también, una impresionante microsite para mostrar llos cuerpos de diferentes atletas para  ESPN https://ueno.co/work/espn/  
+
+  Awwwards site of the day (3/7/2017) https://www.awwwards.com/sites/ueno
+
+  
+
+* **Longshot Features** (2019) https://longshotfeatures.com/ 
+
+  Horizontal scroll animated illustrations, a visual design portfolio 
+
+  https://www.awwwards.com/inspiration/horizontal-scroll-animated-illustrations-longshot-features
+
+  
+
+* **Peter Lindbergh photographer** (2021) https://peterlindbergh-lisicina.com/
+
+  Awwwards Scroll navigation photo gallery, https://www.awwwards.com/sites/peter-lindbergh 18/10/2021
+
+  Info: https://obys.medium.com/peter-lindbergh-website-by-obys-agency-f4df8380d861
+
+  
+
+* **Susan Potter Will Live Forever** (2019)   https://www.nationalgeographic.com/magazine/graphics/visible-human-susan-potter-cadaver
+
+  By National Geographic (2019) Excellence and Innovation en Visual Digital Storytelling HTML5
+
+  Award OJA (Online Journalism Awards): https://awards.journalists.org/entries/susan-potter-will-live-forever/, 
+
+  
+
+* **AirPods Max site** (2021) https://www.apple.com/airpods-max/
+
+  Análisis (Jacques, 2019) https://medium.com/naker/cim-apple-airpods-pro-is-the-cool-intale-of-the-month-e46ca02bd29c
+
+  Analisis (Lattimore, 2021)  https://lattimoreandfriends.com/how-much-did-this-website-cost-apple-airpods-max/
+
+  The UX review https://www.youtube.com/watch?v=4v2X1R3Lr28
+
+  Awwwards site of the day (14/7/2021) https://www.awwwards.com/sites/airpods-max 
+
+  
+
+  
+
+  
