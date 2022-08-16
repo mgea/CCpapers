@@ -152,7 +152,7 @@ Sin embargo, es la revista **ThePudding** (https://pudding.cool/) (fundada en 20
 
 
 
-## 5 Técnica storytelling 
+## 4 Técnica storytelling 
 
 
 A la hora de afrontar el diseño de un artículo mediante este tipo de narrativas, debemos usar un diseño de una sóla página [one page design](https://uxplanet.org/best-design-practices-for-single-page-websites-f93cef95d1e1) donde la información se distribuye en una sola página vertical (infinita) que se adapta al tamaño completo de la pantalla ([diseño responsive](https://es.wikipedia.org/wiki/Dise%C3%B1o_web_adaptable)). Se prescinde de elementos distractivos (publicidad, menú, botones) para dotar a la navegación (por scrollling) de una experiencia inmersiva.
@@ -256,7 +256,7 @@ Un buen diseño tiene como objetivo que el usuario se sienta motivado y provoque
 
 
 
-## 6 Diseño de experiencias con scrolling 
+## 5 Diseño de experiencias con scrolling 
 
 El fundamento de este tipo de narración se basa en el efecto del scroll, que consiste en un desplazamiento por la página web con la ayuda del ratón. Este desplazamiento puede ser en sentido vertical (el más frecuente) o bien horizontal (más usado para juegos de plataformas). 
 
@@ -281,7 +281,7 @@ Para realizar el ajuste del diseño, debemos  organizar los contenidos de modo q
 
 
 
-## 7 Diseño de scrollytelling mediante JS
+## 6 Diseño de scrollytelling mediante JS
 
 Algunas herramientas de diseño (como los editores de Wix, Mobirise, After Effects) permiten realizar efectos sencillo de parallax. Si embargo, para el diseño de este tipo de narrativas (y disponer de mayor control del resultado) es necesario tener  conocimiento sobre desarrollo en HTML5 y sobre las técnicas de animación en CSS/JS. 
 
@@ -320,7 +320,7 @@ La animación de elementos CSS es una herramienta muy potente para el diseño we
 	gsap.to(".box", {rotation: 27, x: 100, duration: 1});
 ```
 
-​	ejemplo en codepen: https://codepen.io/GreenSock/pen/wvwEOZL
+	ejemplo en codepen: https://codepen.io/GreenSock/pen/wvwEOZL
 
 * **gsap.from()**
 
