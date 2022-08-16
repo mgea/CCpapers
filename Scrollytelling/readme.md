@@ -1,6 +1,6 @@
 
 
-#Creación de narrativas digitales mediante Scrollytelling 
+## Creación de narrativas digitales mediante Scrollytelling 
 
 ### Miguel Gea Megías, Universidad de Granada
 
