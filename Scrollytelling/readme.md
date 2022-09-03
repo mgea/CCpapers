@@ -213,6 +213,8 @@ Aunque hay infinidad de posibilidades para organizar la narrativa mediante scrol
 
   <img src="https://visualcomposer.com/wp-content/uploads/2019/11/Parallax-gifs-madwell-min.gif" alt="madwell mousebased" style="zoom:25%;" /> <img src="https://visualcomposer.com/wp-content/uploads/2019/11/Parallax-gifs-kikk-min.gif" alt="tilt" style="zoom:25%;" />
 
+![madwell mousebased](img/Parallax-gifs-kikk-min.gif) 
+
 https://visualcomposer.com/wp-content/uploads/2019/11/Parallax-gifs-kikk-min.gif
 
 https://visualcomposer.com/wp-content/uploads/2019/11/Parallax-gifs-madwell-min.gif
