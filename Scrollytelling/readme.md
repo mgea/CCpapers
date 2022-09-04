@@ -425,6 +425,68 @@ Las posiciones de inicio (start) y fin (end) son dos pares de valores que se ref
 * **GSAP Development tool** línea de tiempo de ayuda al desarrollo https://greensock.com/gsdevtools/ 
 
   
+  
+  
+
+
+
+
+
+
+
+## 7 Uso de audio con scrolling 
+
+El audio es un elemento muy interesante de cara a potenciar experiencias inmersivas si se combina y sincroniza adecuadamente con los efectos de animación y desplazamiento. Históricamente, el audio (y el video) ha sido un recurso que se ha incorporado de forma más tardía en HTML y que ha tenido un proceso de estandarización más complejo (debido a que se necesitaban plugins especiales como flash). Su uso se ha normalizado con HTML5 con la etiqueta <audio> y que se usa con el siguiente formato:
+
+se ciñen a usarlo como sonido de fondo (que se reproduce desde que se activa la página), o bien asociarlo como  un botón que cuando se pulsa, reproduce el contenido.
+
+```html
+<audio control autoplay>
+  <source src="sample.mp3" type="audio/mpeg">
+</audio>
+```
+
+![audio](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190717125925/Screenshot-from-2019-07-17-12-58-11.png)
+
+Los atributos más destacados que pueden acompañar a la etiqueta son *control* (para mostrar los elementos de play/pause), *autoplay* (para iniciarse automáticamente en cuanto se carga la página) y *loop* (en bucle). De este modo, se puden usar para que se activen automáticamente (una vez abierta la página) o bien , el usuario puede activarlo mediante pulsación del control de play, perono hay forma de hacer que se activen conforme se navega en la página.  
+
+El abuso en el diseño de  elementos multimedia que se lanzan nada mas abrir la página  ha provocado que algunos navegadores establezcan políticas restrictivas de control de audio/video en modo autoplay. Así por ejemplo, en **Google Chrome** tiene una *Autoplay Policy Chrome* integrada por defecto que impide activar audio automático en los websites (https://developer.chrome.com/blog/autoplay/). Esa política propone incentivar un uso consciente de ese recurso, de modo que el usuario debe  interaccionar (hacer un clic, tocar pantalla, etc.) con el website previamente antes que este se active. **Mozilla Firefox**  sigue una política simillar sobre el auto-play, si bien se puede activar/desactivar esa opción desde la configuración.
+
+Es por eso que si quieremos activar el sonido de modo automático, se debería añadir un botón que explícitamente active/desactive el uso de audio en auto-play (Camperbot, 2019)
+
+En el siguiente CodePen se puede ver cómo funciona: https://codepen.io/mediaUX/pen/JjvojgE
+
+
+
+#### Librería AudioFade.js
+
+
+
+En Github nos podemos encontrar algunos desarrollos de código muy interesantes como AudioFade, creado por @kamblack y que nos ayudan a crear ese efecto de activación del audio mientras se hace scrolling. Añadiendo algunas librerías externas de JS (JQuery) y con un poco de código en JavaScript, podemos crear el efecto de activación y fade (atenuación) de canciones en nuestra página web relacionadas con la posición de scroll de la página, con la siguiente sintaxis:
+
+```javascript
+var someVariable = new AudioFade(elementId, fadeIn, fadeOut, fadeDuration).init();
+```
+
+El <elementId> es un identificador DOM (jQuery) de un elemento de audio. Los valores <fadeIn> y  <fadeOut> son valores en pixel que indican el inicio y fin del ámbito donde el audio se activará (cuando nos desplazamos por la página), y  <fadeDuration> es la duración (en pixels) del desvanecimiento de la canción) para hacer transiciones suaves entre diferentes audios. De este modo, podemos asociar un audio a una zona (en pixels de la página web) y decidir cómo fusionar (con efecto de fade) una pista de audio con la siguiente.
+
+Podemos ver el efecto de esta librería en el CodePen https://codepen.io/mediaUX/pen/KKRKrrL
+
+
+
+
+
+**Bibliografía:** 
+
+
+
+* Camperbot (2019) [How to play MP3 in the background music automatically?](https://forum.freecodecamp.org/t/how-to-play-mp3-in-the-background-music-automatically/308554). https://forum.freecodecamp.org/t/how-to-play-mp3-in-the-background-music-automatically/308554. Codepen code: https://codepen.io/freeCodeCamp/pen/MWyBapv
+* @kamblack (2018) **AudioFade.js**  https://github.com/KamboBlack/AudioFade
+* *Autoplay Policy Chrome* (2018) https://developer.chrome.com/blog/autoplay/ 
+
+
+
+
 
 
 ## Conclusiones
