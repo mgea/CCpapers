@@ -12,7 +12,7 @@ Artículos:
  
 * Miguel Gea (2022) **Creación de narrativas digitales mediante Scrollytelling** [Versión Creative Commons](https://github.com/mgea/CCpapers/blob/main/Scrollytelling/readme.md) (updated 15/08/2022)
  
-* Gea, M. (2022) Aproximacíon al UX & Toolkits, Artículo Creative Commons CCBYNCSA, online https://github.com/mgea/CCpapers/tree/main/UX, update 9/09/2022 
+* Gea, M. (2022) **Aproximacíon al UX & Toolkits**, Artículo Creative Commons CCBYNCSA, online https://github.com/mgea/CCpapers/tree/main/UX, update 9/09/2022 
 
 
 
