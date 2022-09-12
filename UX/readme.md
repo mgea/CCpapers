@@ -27,7 +27,7 @@ A continuación se muestran los métodos seleccionados para la creación del  **
 
 Este toolkit está inspirado en (Soverini, 2018) y del mismo modo, usa una versión en Github adaptada a los métodos más usados en la asignatura.  
 
-Se clasifican en varios grupos dependiendo del momento de uso o intención. La idea es tener un canvas digital donde se muestren los métodos disponibles (realmente recomendados) para cada etapa y una descripción del método y cómo usarlo (con enlace a referencias externas relevantes)
+Se clasifican en varios grupos dependiendo del momento de uso o intención. La idea es tener un canvas digital donde se muestren los métodos disponibles (realmente recomendados) para cada etapa y una descripción del método y cómo usarlo (con enlace a referencias externas relevantes). El contenido Github está disponible en https://github.com/mgea/UX-DIU-Checklist con licencia GPL-3.0 CCBYSA
 
 ### Desk Research 
 
@@ -108,7 +108,7 @@ Basado en [DITTE MORTENSEN](https://www.interaction-design.org/literature/author
 
 
 
-###Design 
+### Design 
 
 * **Landing Pages**. For branding, a landing page is a dedicated online page built solely for accomplishing one or more marketing goals such as generating leads or getting clicks  
 
@@ -128,7 +128,7 @@ Basado en [DITTE MORTENSEN](https://www.interaction-design.org/literature/author
 
   
 
-###Design
+### Design
 
 * **Moodboard.** It helps designers and stakeholders get on the same page for the visual aspects of the project. In UX Design and product design, a mood board is a collage of images, fonts, interactions, features, icons, and UI elements to communicate the artistic direction of a project.
 
@@ -158,7 +158,7 @@ Basado en [DITTE MORTENSEN](https://www.interaction-design.org/literature/author
 
   
 
-###Testing
+### Testing
 
 * **Prototype**. Prototype is an early sample of design used to get feedback and rapid experiments with new ideas. Publish on Github to test functionality. Yes, your product can do that! https://uxplanet.org/basics-of-prototyping-1a4106e12c0e
 
@@ -196,7 +196,7 @@ Basado en [DITTE MORTENSEN](https://www.interaction-design.org/literature/author
 
 
 
-###Accesibility
+### Accesibility
 
 * **Accesiblity** A study to measure if the website can be used by everyone, including users with special needs. https://uxplanet.org/how-to-create-interfaces-that-benefit-all-accessibility-testing-and-inclusive-design-principles-ed15477bcce0
 
