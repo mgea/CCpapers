@@ -47,12 +47,168 @@ Dentro de esos formatos, hay diferentes géneros que tienes su propio estilo e i
 
 
 
-​	Img: https://differenceengine.sg/for-educators/elements-of-comics/ 
+Img: https://differenceengine.sg/for-educators/elements-of-comics/ 
 
 Las narración sigue un esquema de composión denominado arte secuencial, en la que se cuenta la historia con una estructura narrativa basada en una sucesión de imágenes en la que se deben tener en cuenta los siguientes unidades básicas : espacio-tiempo y montaje-ritmo (Eisner, 1988)(Garcia, 2000)
 
 * Cada viñeta consiste en un **espacio** que representa un instante de **tiempo**, se congela el movimiento  como si fuese un fotograma. El espacio delimita la dimensión donde suceden los hechos y se delimita visualmente mediante el foco de atención, la viñeta tiene la libertad para representar ese encuadre. El tiempo es algo que percibimos con la memoria, por lo que la relación espacio-tiempo se  transmite con la secuencia, centrando nuestra acción en la narrativa.  
 * El **montaje** es la forma en la que se disponen las viñetas en la página, y ofrece la libertad de transmitir el **ritmo** de la acción. Esa composición puede ser regular para transmitir estabilidad  y  fluidez narrativa, o bien ser alterada con variaciones de tamaño y ubicación provocar tensión.  
+
+
+
+
+Si bien el cómic se ha asentado sobre diferentes formatos y estilos para un público muy variado, con la revolución digital se intuye que los cambios tecnológicos pueden marcar una transformación de la industria del cómic que McCloud plantea en una aproximación a tres niveles: en la producción del cómic, su distribución y un nuevo formado: el cómic digital  (McCloud, 2000)(Varillas, 2016). 
+
+
+##### Bibliografía
+
+* (Eisner, 1998) W. Eisner (1998 ) **El cómic y el arte secuencial**, Norma editorial. https://dibujourjc.files.wordpress.com/2018/03/arte-secuencial-will-eisner.pdf
+* (McCloud, 2000) McCloud, S. (2000) **Reinventing Comics**. New York: Paradox Press.
+* (McCloud, 2001)  McCloud, S (2001) **Understanding Comics: The Invisible Art**, William Morrow Paperbacks; N.º 1 edición (10 mayo 2001)
+* (Rifkind, 2019)  C. Rifkind, B. Christopher, Alice RL (2019) **How Comics Work**, Department of Winnipeg, Retrieved from uwinnipeg.ca/1b19 [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/) DOI: [10.36939/ir.202008252119](https://doi.org/10.36939/ir.202008252119) 
+* (Garcia, 2000) S. García (2000) **Sinfonía gráfica: variaciones en las unidades estructurales y narrativas del comic.** Ediciones Glenat [7.056T GAR sin, BBAA] 
+* (Goodbrey, 2017) **The Impact of Digital Mediation and Hybridisation on the Form of Comics**, PhD University of Hertfordshire,  http://e-merl.com/thesis/DMGthesis2017web.pdf 
+* (Varillas, 2016) R. Varillas **De la revolución del cómic y otros augurios**  incluido en (Perez, 2016) P. Pérez (coord) (2016) **Comic Digital Hoy** libro digital online. Asociación de Críticos y Divulgadores del Cómic (ACDCómic)  http://www.acdcomic.es/comicdigitalhoy/  
+
+
+
+
+## 2 Remediación, Hibridación y transmedialidad del cómic 
+
+
+Sin embargo el éxito y vigencia de este género en la cultura contemporánea se debe en gran medida a su fusión y adaptación a los nuevos medios, lo que ha generado una gran riqueza en la forma de expresión.  Muchos de los nuevos formatos  surgen a partir de la formas más clásicas del género y tienen como eje de transformación el ordenador como metamedio (Manovich, 2013). 
+
+### Remediación del cómic: el cómic digital
+
+La remediación consiste en *“el proceso por el cual un medio de comunicación se apropia de técnicas, formas y/o significación social de otro medio con el cual persigue rivalizar o redefinirse”* (Bolter y Grusin, 2000: 45), y el meta-medio ordenador se ha convertido en esa máquina de re-mediación (Manovich, 2013)
+
+
+A este fenómeno se le ha intentado poner un nombre (cómic digital) y se ha elaborado un *manifiesto del cómic digital* publicado en Screendiver (Garcia, 2020) una plataforma online popular de este tipo de formato, para establecer las características propias que posee este medio y que con el tiempo ha alcanzado un amplio consenso con los siguientes puntos:  
+
+* El cómic debe salirse de la imprenta;  Print-formatted page layouts and skeuomorphic folding-paper transitions have no place in the digital realm.
+* Debe estar diseñado para la plataforma que habitará; 
+* No debe tomar control del lector, sino permitir que el lector sea quien decida cada paso que dará en la trayectoria de lectura; 
+* El cómic digital debe ser llamado precisamente así: “**cómic digital**”.
+
+Publicado en https://screendiver.com/digital-comics-manifesto/ por [Ezra Claytan Daniels](http://www.ezracdaniels.com/) y titulado *Print Is Dead* (Daniels, s.f.). 
+
+Sin embargo, esta transformación ha tenido una adopción gradual, con unos cambios rápidos en los inicios sobre la producción y distribución del cómic hasta concluir con la reformulación del  cómic digital  (McCloud, 2000). Batinic (Batinic, 2016) Distingue dos tipos de tendencias en el cómic digital, aquella que está orientada a mantener las características del cómic original pero que "adaptan" su diseño para ser reproducido en la pantalla del ordenador frente a la "enhanced" que añaden nuevas características propias del medio digital. En el primer caso (adaptación) el cómic pretende mantener la fidelidad y características de la versión impresa, mientras que en en el segundo caso (enhanced) se enriquece con elementos interactivos de los que carece el medio original.   
+
+Las primeras aproximaciones al cómic digital fueron adaptaciones que consistían básicamente en tener versiones escaneadas del cómic en soporte digital (PDF) que se podían descargar desde internet, por lo que son experiencias más cercanas al comic tradicional que una verdareda remediación. Básicamente se solucionaba el problema de la distribución.  Entre las primeras plataformas especializadas en descarga de cómic digitales están comiXology (2007) y Panel Syndicate (2013), si bien la primera pasó rápidamente a ser comprada por Amazon (Perez, 2016).  Panel Sindicate se especializa en la distribución, permitiendo la descarga en formato PDF de los cómic (con un precio que pone el propio lector)
+
+Sin embargo, rápicamente se empieza a experimentar con diseño con herramientas digitales y buscando métodos de producción y soportes de almacenamiento específico para una mejor experiencia de lectura, usando dispositivos móviles/tablet y formatos específicos de almacenamiento (CBR, CBZ). Casi todas las experiencias de adaptación intentan mejorar la experiencia de lectura del comic al medio digital, representado por una página estática de tamaño único. El diseño de comic para un dispostivo concreto también impone severas limitaciones a los diseñadores.  Una de las primeras aproximaciones para esa "adaptación" es la metáfora de página estática con **presentacion por paneles** donde se puede mostrar una página o una tira de viñetas en cada paso. 
+
+![Digitalcomic](https://digitalcomics.co/img/article-illustrations/guided-view.gif)
+
+
+El cómic  *Argon Zark!* (Charley Parker, 1995), es uno de los primeros ejercicios de diseño integramente con herramientas digitales (Vilchez, 2016) o también experiencias de adaptación de novelas gráficas como https://www.nowheregirl.com/
+
+|[zark](https://www.zark.com/pics/az01.jpeg)
+
+EL nuevo concepto de cómic digital tiene también diferentes aproximaciones, si bien en un principio se comenzó a denominar webcomic como referencia a soporte web como soporte. 
+
+#### Webcomic
+
+El Webcomic (como experiencia mejorada) se puede considerar una adaptación del cómic a formatos digitales, pero ya no es simplemente una representación plana en forma de imagen sino que se utilizan un formato vectorial que permite reducir considerablemente el tamaño del fichero y permite manipulación digital de los elementos del mismo. 
+
+Sin embargo, es Scott McCloud (2001) quien propone una nueva aproximación denominada  **lienzo infinito** que permite al creador de cómics disponer de un expacio no limitado a las restricciones severas del tamaño en papel y de las propias viñetas.  McCloud que la *página*, como formato, es intrínseca al cómic, pero que los creativos gradualmente logran habitar fuera de ella y explorar las oportunidades que ofrece un lienzo infinito desde el punto de vista del diseño en el entorno digital.  de este modo, los cómics pueden asumir virtualmente cualquier forma y tamaño  (Ayala & Santos, 2020). El *infinite canvas* propone sobrepasar los límites de la página para aprovechar el espacio digital infinito. Las viñetas pueden extenderse en cualquier dirección y la pantalla toma el rol de una ventana móvil de acceso a dichas viñetas. La navegación en cualquiera de las cuatro direcciones (arriba, abajo, izquierda y derecha) permite crear narraciones con bifurcaciones, donde la historia varía según la dirección tomada por el lector. Algunos de los primeros ejemplos están basados en un rudimentario espacio vertical que se puede ver haciendo scroll con el mouse (xkcd) https://xkcd.com/482,. Algunos de los portales más relevantes para el cómic digital es webtoons (https://www.webtoons.com/) que permite visualizar los cómics en formato de presentación por paneles y scroll vertical. 
+
+
+Muchas de estas experiencias se había desarrollado en sus orígenes en formato Flash (Alberich, 2020) por lo que actualmente pueden estar obsoletos por falta de soporte de los navegadores actuales. Muchas de estas experiencias en cómic digitales han desaparecido por la **obsolescencia** del soporte de almacenamiento (dominios, servidores) como de las herramientas que han sido diseñado (como es el caso de los desarrollos en flash). *La (in)materialidad del cómic digital es una de las principales polémicas del medio. El archivo y conservación de las obras es complicado, ya que la tecnología con la que fueron creadas cae en desuso. Las adaptaciones o actualizaciones al nuevo software no están siempre al alcance de los autores, o no son rentables para los editores. Esto hace que los lectores se lo piensen dos veces antes de gastar su dinero en la adquisición de un cómic digital, por muy económico que este sea. Sin embargo, no nos planteamos la misma pregunta cuando compramos un videojuego. Afortunadamente, existen iniciativas de actualización y recopilación como [Turbointeractive](https://turbointeractive.fr/), un portal que ha actualizado una selección de antiguos turbomedia en formato flash a los nuevos lenguajes de programación web.* (https://amberesrevista.com/comic-digital/) 
+
+
+### Hibridación en el Comic
+
+Sin embargo, la evolución del ordenador como meta-medio da lugar a una segunda etapa denominada hibridación de medios. Del concepto de remediación de estas primeras aproximaciones, la incoporporación de nuevas interfaces, lenguajes y técnicas digitales que se unen para dan pie a nuevas *gestalts de medios*: se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno.  (Manovich, 2013). En este terreno, se exploran nuevos formatos que van más allá de un ejercicio de multimedia, planteando una remezcla profunda (remix) que tiene su propia identidad. 
+
+Las combinaciones de medios son múltiples y variadas, de manera que un cómic digital puede presentarse bajo multitud de formas diferentes. Muchos de estos híbridos se han estandarizado, recibiendo denominaciones concretas que reenvían directamente a un formato y a una forma de distribución determinada, algunos de estos casos son los    *webtoons*,  hiper-cómics, *motion comics*, e incluso visual novels.  (Molina, 2018)
+
+
+#### a) Motion Comic
+
+Los motion comics son considerados como un nuevo estilo de animación digital dentro de los nuevos soportes del cómic. Se caracterizan por ser una adaptación de la narrativa y grafismo del cómic a animación conservando su arte original. Un **motion comic** (**cómic en movimiento** o **cómic animado** en español) es una forma de animación que combina elementos de [libros de cómic](https://es.wikidat.com/info/Comic_book) impresos y [animación.](https://es.wikidat.com/info/Animación) Los paneles individuales están expandidos en un plano o cuadro completo mientras que los efectos de sonido, la voz y la animación son añadidas a la obra original. Las cajas de texto y las burbujas de efecto de sonido son típicamente sacadas para presentar mejor la animación de la obra original. Los cómics animados son a menudo liberados como series cortas que cubren una arco narrativo de una serie de larga duración o animando una sola publicación de una novela gráfica.
+
+ej: The Accountant - Motion Comic https://www.youtube.com/watch?v=YF_labM9Jp4 
+
+ej: Watchmen - https://www.youtube.com/watch?v=mLdqKIj3-A0 
+
+
+(ref: https://es.wikidat.com/info/motion-comic)
+
+What is the Motion Comic? ([Drew Morton](https://vimeo.com/user15915571) https://vimeo.com/166858225 
+
+
+
+
+#### b) HyperComic 
+
+Aparte del uso de scroll, también aparecen otras experiencias e interacciones cercanas a los vídeojuegos de tipo ***point-and-click***  que se distribuyen en CD, o bien se adaptan para versiones de móvil o tablet. Este concepto de hypercómic lo define Goodbrey como "a comic with a multi-cursal (nonlinear) narrative structure" (Goodbrey, 2007)  con la intención de combinar los aspectos no linearidad que ofrece la Web al cómic. 
+
+Si bien las primeras de estas propuestas han sido desarrolladas bajo tecnologías que ahora son difíciles de recuperar por la obsolescencia de flash, a partir del 2000 se comienza a popularizar el uso de HTML (con un resulltado  bastante rudimentario). Una muestra de ello es Happyfrictions (Goodbrey, 2000) con tres pequeños experimentos de interactividad y cambios narrativos. Goodbrey se convierte en un autor referente en este formato inclasificlable (Vilchez, 2016)
+
+![HappyFrictions](http://e-merl.com/hyper/hapf/hapf1.jpg)
+
+
+En otros casos, se utiliza el canvas infinito para hacer scroll, como  *Hobo-Lobo of Hamelin* (2011), que simula una tira de cómic horizontal con pseudoanimación (por capas) y desplazamiento con clic de ratón. 
+
+Una propuestas que está pensada para establecer un formato y características bien definidas del cómic hypermedia es *soulreaper* (2012) mediante un modelo de ScrollBook en HTML5, manteniendo muchas de las caractersíticas de formato del cómic, pero estableciendo unas identidad propia basada en scroll y efectos de animación de la empresa Saizen (https://www.saizenmedia.com/main/#work/soul-reaper)  
+
+https://thefwa.com/cases/soul-reaper-html5-scroll-book
+
+En esa línea, se puede destacar también la importacia del sonido en el cómic digital (Goodbrey, 2015)
+
+
+
+#### c) Scrollytelling (parallax scrolling)
+
+Un caso que está tomando cada vez mayor repercusión es el uso de scrolling para narrar historias, siendo un híbrido con lo que sería el periodismo de formato largo (long-form journalism). Este *modelo de periodismo de formato largo* (**long-form journalism**) se caracteriza por rodear al usuario en un campo visual de insmersión no destructivo (inmersión sensorial), de modo que se pueda concentrar en la historia mediante la narración de una historia (storytelling) usando los recursos multimedia adaptados a las características y tamaño de la publicación electrónica  (Dowling, 2019).
+
+Una variante de este modelo de storytelling es ell denominado **scrollytellling**,  de modo  que usa el scolling para hacer avanzar la historia y además se puede combinar con otras técnicas como la sincronización de sonido y el uso de técnicas de paralaje (parallax) para dotar a la composición de mayor dinamismo. El scrollytelling transforma una historia de formato largo (long-form journalism) en una experiencia interactiva (Cardello, 2019). 
+
+Una de las experiencias de Scrollytelling que hace uso de novelas gráficas para el desarrollo de la trama es SBS (2015) **The boat** https://www.sbs.com.au/theboat/  del diseñador: Matt Huynh https://www.matthuynh.com/theboat 
+
+![theboat](http://www.sbs.com.au/theboat/images/fb-image.jpg)
+
+
+
+
+#### d) Game Comic
+
+Los videojuegos es otro género que ha ido creciendo y evolucionando con el ordenador y cuyos orígenes  se remontan a *Spacewar!* el primer video juego creado por Russell en1961 (Goodbrey, 2017). Esta evolución cronológica se puede observar en siguiente enlace https://www.museumofplay.org/video-game-history-timeline/ 
+
+
+Nuevamente, esta es otra frontera donde se introduce el "game comic" como un tipo de hypercomic que muestra características de un juego y utiliza formatos propios del cómic (Goodbrey, 2017).  
+
+Juul (2003) propone una serie de características propias de los juegos:  
+
+ 	1. Reglas: Los juegos son un sistema basado en reglas. 
+ 	2. Variables  y resultados cuantificables (podemos valorar los progresos con un conjunto de variables de definen en estado del juego: vidas, puntos, tiempo...) 
+ 	3. Valorización del resultado alcanzado: Esa evaluación del resultado puede dar diferentes grados de consecución del objetivo alcanzado (ganado, perdido, record,...) 
+ 	4. Esfuerzo del jugador. El jugador necesita realizar un esfuerzo para alcanzar los objetivos (el desafío del juego) 
+ 	5. El jugador se ve afectado emocionalmente por las consecuencias del juego (feliz / triste)  
+ 	6. Consecuencias negociables, de modo que los resultados del juego se pueden negociar si tienen implicaciones en la vida real (p.e. ganar/perder dinero) 
+  
+  
+  Muchas de estas características se pueden apreciar en videoguejos. Por ejemplo, *Comix Zone* (1995) es uno de los mejores ejemplos de esta hibridación (Goodbrey, 2017). 
+
+
+
+Otras experiencias que pueden caer en esta hibridación es el **cómic estilo puzzle**. Un caso de ese formato es *Framed* (2014) En este juego, se pueden reordenar las viñetas para avanzar la historia pudiendo obtener resultados diferente en función de cómo se haya hecho esa reordenación. La narrativa no hace uso de palabras y sólo contiene animaciones que cobran significado en función de la secuencia temporal. El personaje debe hiur por diferentes escenarios 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
