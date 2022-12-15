@@ -205,6 +205,7 @@ http://framed-game.com/
 Las novelas visuales (VN) es un **género de videojuego interactivo que se centran en contar una historia** o que, dentro de sus escritos, posee una narración similar al de una novela. Las características más destacables es la relevancia de la narración y la caracterización de los personajes, generalmente en una posición estática que recuerda a imágenes de cómic. en realidad, ha tenido mucha influencia del manga japones y es en ese pais donde ha tenido una mayor popularidad. 
 
 
+![vn](https://electrastreet.net/wp-content/uploads/2019/11/ES-carrera-visual-novel-01.jpg)
 
 ### El cómic en el universo transmedial 
 
