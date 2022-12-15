@@ -45,7 +45,7 @@ Dentro de esos formatos, hay diferentes géneros que tienes su propio estilo e i
   * Los **cartuchos** (o bloques narrativos/Caption Narrative box) son cápsulas que se insertan en la viñeta para dar una explicación del contenido. 
   * Pueden aparecer otros elementos tales como la **onomatopeya** como recurso narrativo, que es una interacción gráfica entre imagen y texto, de modo que se describe mediante palabras un sonido o ruido.  
 
-
+![part-comic](https://differenceengine.sg/wp-content/uploads/2018/09/Adas-Adventure-Comics-For-Educators.jpg)
 
 Img: https://differenceengine.sg/for-educators/elements-of-comics/ 
 
