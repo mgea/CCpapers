@@ -103,7 +103,7 @@ Sin embargo, rápicamente se empieza a experimentar con diseño con herramientas
 
 El cómic  *Argon Zark!* (Charley Parker, 1995), es uno de los primeros ejercicios de diseño integramente con herramientas digitales (Vilchez, 2016) o también experiencias de adaptación de novelas gráficas como https://www.nowheregirl.com/
 
-|[zark](https://www.zark.com/pics/az01.jpeg)
+![zark](https://www.zark.com/pics/az01.jpeg)
 
 EL nuevo concepto de cómic digital tiene también diferentes aproximaciones, si bien en un principio se comenzó a denominar webcomic como referencia a soporte web como soporte. 
 
