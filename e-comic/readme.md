@@ -195,6 +195,95 @@ Juul (2003) propone una serie de características propias de los juegos:
 
 Otras experiencias que pueden caer en esta hibridación es el **cómic estilo puzzle**. Un caso de ese formato es *Framed* (2014) En este juego, se pueden reordenar las viñetas para avanzar la historia pudiendo obtener resultados diferente en función de cómo se haya hecho esa reordenación. La narrativa no hace uso de palabras y sólo contiene animaciones que cobran significado en función de la secuencia temporal. El personaje debe hiur por diferentes escenarios 
 
+http://framed-game.com/  
+![framed](https://64.media.tumblr.com/068e5f745dd771f55018ba4eefec13fd/tumblr_inline_o4zwu6gPzR1u5z2km_500.jpg)
+
+
+#### e) Visual novel
+
+Las novelas visuales (VN) es un **género de videojuego interactivo que se centran en contar una historia** o que, dentro de sus escritos, posee una narración similar al de una novela. Las características más destacables es la relevancia de la narración y la caracterización de los personajes, generalmente en una posición estática que recuerda a imágenes de cómic. en realidad, ha tenido mucha influencia del manga japones y es en ese pais donde ha tenido una mayor popularidad. 
+
+
+
+### El cómic en el universo transmedial 
+
+El cómic es un género dinámico que ha crecido rápidamente en estos últimos tiempos y en los que podemos destacar su *transmedialidad*, expandiéndose fuera de los límites de las páginas impresas y transformándose en modernas narrativas digitales (Yefymenko, 2021). 
+
+Quizás el caso más destacable en estas décadas haya sido la creación de los universos expandidos de Marvel (*Marvel Cinematic Universe*) y DC (*DC Extended Universe*) que llevan años con creaciones de películas basadas en las sagas de superhérores de esos cómics. (Brembilla & Pescatore, 2020) 
+
+Sin embargo, también hay casos de éxito como la adaptación a cómic de sagas como Star Wars (Guynes & Hassler-Forest, 2017) . 	
+
+
+
+### Comic expandido
+
+Otras estrategias creativas se han desarrollado como una liberación de las viñetas del las unidades estructurales (la página y la viñeta) para ser parte del entorno. Podemos destacar la exposición denominada **viñetas desbordadas** realizada en el museo  [Centro José Guerrero](http://www.centroguerrero.es/expos/vinetas/) de Granada, que consistía en meterse dentro de un cómic, porque las viñetas serpentean por sus paredes y podemos leerlas mientras paseamos. Una novedosa experiencia que sus autores describen como  y que está concebido para leerse, únicamente, en las salas del centro. https://www.rtve.es/noticias/20190123/museo-se-convierte-comic/1872858.shtml
+
+Una de las historias que se exhibe es la de "Vida de Ubrut, encargado de mantenimiento" de Max,  y es un asalariado que *se encarga de que una línea de once kilómetros, esté siempre impoluta*. Esa línea es la que recorre todos los espacios del museo. En esa línea ocurren cosas por la noche, sale hierba, aparecen piedras… cada mañana la deja impecable”. El lector solo entenderá la historia si se va desplazando de una pared a otra . Hemos aprovechado todas las posibilidades espaciales y te vas desplazando por el museo. Pero hay que verlo porque es difícil de explicar”. https://blogcentroguerrero.org/ubrut/
+
+![ubrut](http://blogcentroguerrero.org/wp-content/uploads/2020/04/UBRUT-01web.jpg)
+
+
+
+### Comic experimental  (S. García)
+
+Sergio García, hace uso de todo tipo de recursos narrativos que permitan la *multilinealidad en la narración* con un lenguaje propio que no sea dependiente de otros medios (S. Garcia, 2000)
+
+
+
+Sergio Garcia se ha especializado en un tipo de narrativa gráfica experimental, que explora nuevos caminos para contar historias. ha comenzado a experimentar con las posibilidades expositivas del cómic. . No deja de ser una ilustración muy fronteriza la que yo hago, muy narrativa: ¿qué es cómic y qué es ilustración? Esta constante experimentación gráfica, que parte del rechazo de los límites acotados de la viñeta, de la página y del libro, que encorsetan e impiden la expansión del dibujo, ha transcendido y revolucionado tanto los **formatos tradicionales del cómic como su lenguaje secuencial**. Apuesta por la búsqueda de formatos alternativos y **recursos gráficos que posibiliten la deconstrucción de la narración lineal del cómic**, propuesta de la que se ha convertido en un destacado referente y sobre la que teorizó en Sinfonía gráfica. Variaciones en las unidades estructurales y narrativas del cómic (2000) y en Anatomía de una historieta (2004).
+
+
+
+#### Bibliografía 
+
+* Manovich, L. (2013). ***El software toma el mando***. Editorial UOC. 
+* (Daniels, s.f.) E. C. Daniels(s.f.)  **Print Is Dead** (http://www.ezracdaniels.com/),  publicado en https://screendiver.com/digital-comics-manifesto/ 
+* (McCloud, 2001)  McCloud, S (2001) **Understanding Comics: The Invisible Art**, William Morrow Paperbacks; N.º 1 edición (10 mayo 2001)
+* (Garcia, 2000) S. García (2000) **Sinfonía gráfica: variaciones en las unidades estructurales y narrativas del comic.** Ediciones Glenat [7.056T GAR sin, BBAA] 
+  * 2tos, 2020) Patricia Ayala, Heliodoro Santos (2020) **El webcómic interactivo como narrativa transdisciplinaren la era de la cultura digital**, Estudios sobre las Culturas Contemporáneas, vol. XXVI, núm. 52, pp. 71-90, 2020, online: https://www.redalyc.org/journal/316/31664009005/html/
+* (Alberich, 2020) Alberich-Pascual, J. (2020) **Flash is dead, long live Flash!**, Mosaic, (3/06/2020) online:  https://mosaic.uoc.edu/2020/06/03/flash-is-dead-long-live-flash-apuntes-para-una-epistemologia-del-software-de-autor/ 
+* (Aggleton, 2018) J. Aggleton (2018): **Defining digital comics: a British Library perspective**, Journal of Graphic Novels and Comics, DOI: 10.1080/21504857.2018.1503189
+* (Molina, 2018) Margarita Molina (2018) **Nuevos horizontes del noveno arte: cómic digital**, Amberes revista cultural (5/12/2018) online: https://amberesrevista.com/comic-digital/
+
+
+
+
+## 3 Expansión experimental del e-Cómic
+
+
+(falta introducción)
+
+
+#### 3.1 Comic Strip  and story-driven Comic 
+
+La tiras cómicas ha sido un formato que se ha sido fácilmente convertido a una natutaleza digital, ya que el formato visual (3-6 viñetas en fila) como la simplicidad del contenido favorece ese proceso. 
+
+Existen muchas herramientas más o menos complejas que resuelven la composición de la escena en viñetas con unos personajes prediseñados. Entre ellos podemos destacar Pixton (https://www-es.pixton.com/), StripCreator (http://www.stripcreator.com/) o Storyboard That! (https://www.storyboardthat.com/)  son entornos. este tipo de entornos se han utilizado preferentemente en entornos de aprendizaje gamificado para colegios y enseñanzas de nivel medio. Eventually, there is an emerging interest in the education system to use comics as a digital storytelling medium where students’ knowledge and ideas on various subjects are synthesized in a form of sequential art.  Learner-generated comic project is an educational approach where learners them‐ selves craft personalized comics in order to reach a pedagogical purpose.  (Azman, Zaibon & Shiratuddin, 2015).
+
+ Un problema es que este tipo de plataformas tienen una rápida obsolescencia y muchas de ellas desaparecen como BitSrips ( https://web.archive.org/web/20160204012418/http://bitstrips.com/create/comic/) por usar Adobe Flash, o ToonLet (https://web.archive.org/web/20150922163740/http://toonlet.com/)
+
+
+![pixton](https://www3.gobiernodecanarias.org/medusa/ecoescuela/recursosdigitales/files/formidable/6/pixtonedu4.png)
+
+
+
+#### 3.2. Del personaje al cómic: comicGen 
+
+
+
+ComicGen es una librería open source para generar personajes y que luego se pueden usar para crear cómic en páginas web. 
+
+![comicgen](https://i.ytimg.com/vi/E_2hdZuugI8/maxresdefault.jpg) 
+
+
+
+
+#### 3.3. El folio de viñetas responsivo 
+
+Esto contrasta con las posibiildades de **diseño responsivo** de la Web pensando en una **superficie fluida**
+
+![responsive](https://webartdevelopers.com/blog/wp-content/uploads/2018/09/Responsive-Comic-Book-Layout-1024x580.png) 
 
 
 
