@@ -197,6 +197,7 @@ Otras experiencias que pueden caer en esta hibridación es el **cómic estilo pu
 
 http://framed-game.com/  
 ![framed](https://64.media.tumblr.com/068e5f745dd771f55018ba4eefec13fd/tumblr_inline_o4zwu6gPzR1u5z2km_500.jpg)
+![framed2](https://cdn.toucharcade.com/wp-content/uploads/2014/11/Framed-2.jpg)
 
 
 #### e) Visual novel
@@ -273,6 +274,8 @@ Existen muchas herramientas más o menos complejas que resuelven la composición
 
 
 ComicGen es una librería open source para generar personajes y que luego se pueden usar para crear cómic en páginas web. 
+https://gramener.com/comicgen/
+
 
 ![comicgen](https://i.ytimg.com/vi/E_2hdZuugI8/maxresdefault.jpg) 
 
