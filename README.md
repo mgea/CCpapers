@@ -14,6 +14,10 @@ Artículos:
  
 * Gea, M. (2022) **Aproximacíon al UX & Toolkits**, Artículo Creative Commons CCBYSA, online https://github.com/mgea/CCpapers/tree/main/UX (update 9/09/2022)
 
+* Gea, M. (2023) El Cómic digital expandido: técnicas de producción mediante crowdsourcing
+Miguel Gea Megías, Universidad de Granada (Versión 1.0 Creative Commons, Diciembre 2022) online: https://github.com/mgea/CCpapers/tree/main/e-comic
+
+
 
 
 
