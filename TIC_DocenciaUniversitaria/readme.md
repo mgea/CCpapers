@@ -100,3 +100,47 @@ Concluimos esta perspectiva de la situación con un diagrama DAFO del papel de l
 
 
 Esta situación es tan dinámica que las propias universidades han apostado por la creación de observatorios de tendencias en las TIC, así como perfiles de Facebook /Twitter para tener informada a su comunidad de interés. Además, los servicios van creciendo constantemente: a la necesidad de un LMS hay que incluir los repositorios de contenidos audiovisuales, la gestión de material docente en abierto (OCW, cápsulas de aprendizaje, youtube, slideshare, …), canal de TVIP y radio, producción digital de contenidos, aplicaciones móviles, etc. Todo ello crea un panorama de constantes cambios donde es importante reflejar las tendencias de cara a los próximos años en cuanto a evolución.
+
+### REFLEXIONES Y TENDENCIAS
+
+
+
+> The old computing was about what computer could do; <br>the new computing is about what users can do. <br>Successful technologies are those that in harmony with user’s needs. <br>(B. Shneidermann, 2002)
+
+Las tendencias que hemos podido constatar en las Jornadas de CRUETIC celebradas en la Universidad de Granada las podemos resumir en los siguientes puntos:
+
+
+
+1. En cuanto a infraestructura, se debe avanzar hacia una **arquitectura flexible, sostenible y escalable**. La adopción de tecnologías y soluciones TIC es un proceso que consume muchos recursos (técnicos, humanos y económicos) en las universidades, por lo que cualquier cambio o propuesta debe ser consecuente con una política que favorezca su mantenimiento y facilite la integración de herramientas actuales y futuras. Además, hay que ser capaz de abstraerse, de forma eficiente, de los sistemas hardware y software que ya se tengan implantados o que vayan a implantarse próximamente, tanto a la hora de ser mostrados a sus usuarios como a la hora de interoperar con otros organismos, instituciones o sistemas de información, tal y como está exigiendo la ley española.
+2. Hay que **fomentar la cultura digital a todos los niveles**. Las actividades que se desarrollan en el marco universitario tiene que adoptar una nueva dimensión para recoger y fomentar la identidad digital de los participantes en este nuevo contexto universitario. 
+3. Hay que **diseñar el modelo pedagógico antes que el modelo tecnológico**. Debemos anteponer las metodologías docentes, probarlas y evaluarlas para no quedarnos en el envoltorio que rodea el mensaje. La necesidad de buenas prácticas y mecanismos que aseguren la calidad son piezas claves para poder implantar estos procesos en el modelo universitario con ciertas garantías.
+4. El **avance debe ser sostenible y consecuente**. Los avances que se van produciendo son consecuencia de la adopción del modelo por la propia institución, asumiendo y asimilando los nuevos procesos y adaptándolos a sus necesidades. Estos cambios no deben ser traumáticos, sino un proceso natural que permite evolucionar hacia una nueva forma de entender la organización y la forma de aplicar el proceso de enseñanza-aprendizaje. 
+5. **No podemos volver a modelos masivos en enseñanza por ser en modalidad on-line**. El uso de las tecnologías si bien facilita y potencia las comunicaciones entre todos los actores, también debemos tener en cuenta que el aprendizaje es un proceso que requiere de la interacción entre profesor y estudiante, por lo que se debe favorecer que sea de calidad para beneficio mutuo. 
+6. Hay que gestionar un almacenamiento en constante crecimiento, hacia un modelo basado en la nube (cloud computing) en el modelo deseado -privado, público o mixto- pero dentro de un marco legal adecuado y garante de derechos. **La información que se maneja** (en términos de contenidos docentes, comunicaciones y actividades) **crece exponencialmente con el uso habitual de las nuevas herramientas docentes**, y gran parte de estas  actividades se producen en la red, por lo que es imposible concebir este espacio de trabajo sin tener en cuenta la forma de organización basado en un **modelo de almacenamiento escalable en la red**.
+7. Se deben utilizar **modelos y arquitecturas abiertas que faciliten la adopción de nuevas plataformas de m-learning y herramientas sociales**. La movilidad y las comunidades virtuales representan “de facto” los nuevos paradigmas de la sociedad de la información, por lo que es importante favorecer el aprendizaje móvil (portable y ubicuo) y mantener las relaciones sociales (disponibles en cualquier momento y lugar). 
+8. Hay que fomentar el **diálogo en red y los grupos de trabajo de docentes**, una tendencia que debe estar encaminada hacia la creación de comunidades de aprendizaje. Estas comunidades deben interconectar diferentes instituciones, favorecer el intercambio de experiencias y el trabajo en equipo transversal, eliminar barreras y facilitar el diálogo constructivo en aras a proporcionar nuevos modelos de construcción de conocimiento compartido.
+9. Se debe garantizar una **gestión eficiente del cambio** a través de la programación en las universidades de la **innovación**. 
+10. Hay que proporcionar una **actitud positiva y constructiva frente al cambio para evitar la brecha digital** dentro de la propia universidad, facilitando la transición a nuevos modelos de aprendizaje.
+11. Hay que fortalecer la **movilidad virtual y los aspectos interculturales como un valor añadido del uso de las TIC** y como complemento de otros tipos de movilidad tradicionales (Erasmus, intercambios y estancias). 
+12. Se debe potenciar la **creación de materiales docentes en abierto** (bajo licencias creative commons) como alternativa a la proliferación de materiales en la red y a los problemas potenciales ocasionados por los derechos de autor. La generación y consumo de contenido docente en abierto fomentará la visibilidad de la institución y la universalización del conocimiento, creando ventanas abiertas a la sociedad.
+13. Hay que proporcionar **formación para las nuevas competencias** que deben ser adquiridas para estas modalidades de aprendizaje basadas en TIC. Esta política de formación continua implica a todos los estamentos universitarios (profesorado, estudiantes y personal de administración y servicios). Cobra especial relevancia el apoyo a estudiantes en métodos y procedimientos adecuados de búsqueda en repositorios de contenidos de calidad, lo que se conoce como competencias informáticas e informacionales (CI2). La universidad debe realizar en esta línea una fuerte inversión en lo que se conoce como gestión del cambio. 
+14. Se debe acometer una **redefinición del puesto de trabajo del estudiante,** ya que las características de las aulas de teoría y prácticas empiezan a difuminarse. Esta apuesta implica un proceso de cambios constantes en la forma de entender y usar los espacios, en la forma de convivir en las universidades y en la creación de espacios flexibles de aprendizaje donde cada lugar representa una nueva experiencia docente y es una ventana de conexión con el mundo. 
+15. Es necesaria una **mayor implicación de los estudiantes** (antes, durante y como egresados) en todo el proceso de definición del modelo y estrategia educativa. Los estudiantes desempeñan en todo momento un papel activo en el proceso de enseñanza-aprendizaje, son los canalizadores del conocimiento que se transmite a la sociedad, y son los receptores de las nuevas demandas de los puestos del trabajo actuales y futuros. Esta conexión con el mundo laboral (a través de los egresados), supone un valor añadido que se debe incorporar en todo el modelo educativo, para lo cual, la constitución de comunidades virtuales de aprendizaje suponen una gran oportunidad de mantener activo y vigente el compromiso social de la institución. Los **e-porfolios representan a su vez un mapa abierto de los conocimientos y experiencias que posee cada estudiante**, facilitando la creación de itinerarios profesionales y de su difusión en sociedad. 
+16. Hay que tener en cuenta que el **aprendizaje a lo largo de la vida (LLL)** cobra cada vez mayor importancia. El reciclaje y la adaptación a los cambios (de herramientas y medios) es indispensable para una economía cada vez más dependiente de la gestión adecuada del conocimiento.
+
+
+
+Estas tendencias dibujan un panorama lleno de nuevos términos que se basan en conceptos en lugar de herramientas, en modos de entender y centrarse en la colaboración de los distintos actores en lugar de medios para usar y consumir la tecnología. 
+
+Concluimos indicando que **este nuevo modelo de universidad es cada vez más abierto**, usando Internet como canal para extender el aula más allá de las paredes que la delimitaban. Además, a nivel europeo nos hemos puesto de acuerdo en una moneda común de medida del esfuerzo del estudiante (el crédito europeo), lo cual abre aún más las posibilidades de cooperación y de intercambio de experiencias y oportunidades. Todo esto no es sólo una modalidad de aprendizaje, sino que marca una nueva tendencia en la forma de entender las universidades y su misión en el siglo XXI. 
+
+
+
+
+
+Granada, 2012
+
+Miguel Gea <br>Director del Centro de Enseñanzas Virtuales de la Universidad de Granada 
+
+Juan Camarillo <br>Director Técnico del Área Universidad Digital de la Universidad de Sevilla
+
