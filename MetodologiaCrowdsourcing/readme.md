@@ -228,7 +228,9 @@ Quizás nunca antes ha sido tan fácil acceder a la información, pero en muchos
 
 Como se puede apreciar en la figura 2, esta espiral se basa en un proceso de imaginar lo que quieres hacer, para lo cual nos debemos poner manos a la obra para crearlo con las herramientas que dispongamos y a continuación, se debe “jugar” con lo que hemos hecho y lo compartimos con otros compañeros, reflexionando sobre lo que hemos hecho, como lo hemos usado y cómo lo han hecho los demás para a continuación imaginar cómo mejorar esa experiencia de juego. 
 
-![img](https://lh5.googleusercontent.com/4_tL1RPWMvSqP8mbwpL7hgWrAyx66eprI8KeP2TVA9UvMIPEg7lP2LbkvslmxCa2XC0pRIXEq7Vu-f2XHOxh443-pXFTiMUv1DlrZrMJUAfw5_YA61eOKOM9oGwFgLdaaa3mIjA)Figura 2. espiral del pensamiento creativo (Resnick) 
+![img](https://lh5.googleusercontent.com/4_tL1RPWMvSqP8mbwpL7hgWrAyx66eprI8KeP2TVA9UvMIPEg7lP2LbkvslmxCa2XC0pRIXEq7Vu-f2XHOxh443-pXFTiMUv1DlrZrMJUAfw5_YA61eOKOM9oGwFgLdaaa3mIjA)
+
+Figura 2. espiral del pensamiento creativo (Resnick) 
 
 Si bien este modelo parece planteado para una actividad lúdica de un colegio, esa actitud de curiosidad y descubrimiento y de “jugabilidad” tiene muchas oportunidades de crecimiento en la red. Por ejemplo, imaginad que queremos hacer nuestra página web de presentación. En primer lugar deberíamos imaginar cómo la queremos (divertida, animada, formal, participativa) para luego con las herramientas que conozcamos crearla y ver nuestra reacción y la reacción de los demás. Si esa experiencia no es la que deseábamos, seguramente deberemos re-imaginar nuevamente el producto, o bien adquirir nuevos conocimientos “jugando” con otros productos. Ese nuevo conocimiento también puede proceder de otros colegas/usuarios que forman parte de esa comunidad anónima a la que pertenecemos, pero que si somos capaces de ponerle nombre (a nuestro proyecto o intención) seguro que aparecerán esas contribuciones. 
 
