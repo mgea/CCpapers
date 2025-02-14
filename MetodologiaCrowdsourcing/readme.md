@@ -8,7 +8,7 @@
 ### Miguel Gea Megías, Universidad de Granada, 2022
 
 > (Versión Creative Commons del artículo contenido en libro Transmedialización y crowdsourcing en la cultura mediática contemporánea,  J. Alberich D.  Sánchez-mesa (eds.) pp 35-57, Ed. Universidad de Granada, ISBN 978-84-338-6929-6 
-> Disponible en Editorial Universidad de Granada en formato [libro físico](https://editorial.ugr.es/libro/transmedializacion-y-crowdsourcing-en-la-cultura-mediatica-contemporanea_138830/)y [Versión Creative Commons](https://github.com/mgea/CCpapers/blob/main/MetodologiaCrowdsourcing/readme.md) (ver 1.0 updated 21/01/2022) en revision
+> Disponible en Editorial Universidad de Granada en formato [libro físico](https://editorial.ugr.es/libro/transmedializacion-y-crowdsourcing-en-la-cultura-mediatica-contemporanea_138830/) y [Versión Creative Commons](https://github.com/mgea/CCpapers/blob/main/MetodologiaCrowdsourcing/readme.md) (ver 1.0 updated 21/01/2022) en revision
 
 
 El cambio hacia una cultura digital está transformando radicalmente nuestra sociedad tal y como se concebía hasta nuestros días. 
