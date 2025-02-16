@@ -37,7 +37,7 @@ Artículos:
 * Gea, M. (2023) **El Cómic digital expandido: técnicas de producción mediante crowdsourcing** [Repo Creative Commons CCBYSA](https://github.com/mgea/CCpapers/tree/main/e-comic) 
 Miguel Gea Megías, Universidad de Granada (Versión 1.0 Creative Commons, Diciembre 2022)
 
-    Enlace: https://mgea.github.io/CCpapers/#/e-comic
+    Enlace: https://mgea.github.io/CCpapers/#/e-comic/
 
 ----
 
