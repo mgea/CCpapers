@@ -1,7 +1,4 @@
-## CCpapers
-Artículos Creative Commons 
-
-
+CCpapers: Artículos Creative Commons 
 
 
 Artículos:
@@ -44,6 +41,16 @@ Miguel Gea Megías, Universidad de Granada (Versión 1.0 Creative Commons, Dicie
 
 ----
 
+
+
+
+Miguel Gea, 2025
+
+Dpt. Lenguajes y Sistemas Informático 
+
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png"  width="75" > 
+
+Universidad de Granada
 
 
  
