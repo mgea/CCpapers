@@ -1,11 +1,11 @@
-## LAS TIC EN LA DOCENCIA UNIVERSITARIA
+# LAS TIC EN LA DOCENCIA UNIVERSITARIA
 
 Miguel Gea y Juan Camarillo, CRUE-TIC 2012
 
 Artículo procedente del informe "Tendencias TIC para el apoyo a la Docencia Universitaria" de la comisión sectorial de la información y las comunicaciones CRUE-TIC, Universitic 2012 
 https://tic.crue.org/wp-content/uploads/2016/03/Tendencias-TIC-Apoyo-Docencia-2012.pdf
 
-### INTRODUCCIÓN
+## INTRODUCCIÓN
 
 	El mundo ya no es analógico, sino digital,
 	y por tanto, debemos reflexionar
@@ -24,7 +24,7 @@ Ambas perspectivas complementan un ecosistema en constante evolución donde el e
 Este cambio se traduce en un conjunto de términos (que se muestran en la figura) que cada vez son más frecuentes en el ámbito académico, cambiando la forma de entender las aulas, la docencia y el modo de transmitir el conocimiento. Sin embargo, estos términos sólo representan una instantánea de la situación en la que conviven las universidades, y que evoluciona al mismo tiempo que madura el modelo de enseñanza adaptado a las tecnologías que consumimos. En el presente informe analizaremos el contexto que nos permite comprender (al menos en parte) estos cambios, y veremos las distintas propuestas que se han puesto en marcha en las universidades para afrontar estos nuevos retos.
 
 
-EL CONTEXTO
+## EL CONTEXTO
 
 > El planeta nómada está basado en la transformación continua
 > y rápida de los paisajes científico, técnico, profesional y mentales.
@@ -55,7 +55,7 @@ Todos estos nuevos procesos implican cambios en la forma de entender la docencia
 Por otra parte, los estudiantes de las aulas universitarias son nativos digitales, su vida siempre ha estado rodeada de tecnología que usan de forma cotidiana. Esto no significa que sean expertos de estos medios (que podría ser cierto en un gran porcentaje de casos), sino que los usan de forma habitual en muchas de sus actividades cotidianas y experimentan con ellos de forma natural y sin temor (puede que hasta con cierta temeridad). Este nivel de experimentación y asimilación de las tecnologías suponen un gran reto tanto en la situación actual como futura. Incluso hay estudios que indican que Internet (usando buscadores como Google o la Wikipedia) es el primer medio de consulta de los adolescentes, por delante de los padres y de los profesores. Los estudiantes que acceden a la vida universitaria ya tienen su propia cuenta de correo que usan de forma habitual, mantienen su propio blog, almacenan información en la nube y tienen ya formadas sus redes sociales. En cierto sentido, la entrada a la universidad supone una cierta ruptura con sus modelos, que en muchos casos es difícil de adaptar.
 
 
-LA SITUACIÓN ACTUAL EN LAS UNIVERSIDADES
+## LA SITUACIÓN ACTUAL EN LAS UNIVERSIDADES
 
 > Las tecnologías más profundas son aquellas que “desaparecen”.
 > Se tejen en la vida diaria hasta que son indistinguibles de ella.
@@ -101,7 +101,7 @@ Concluimos esta perspectiva de la situación con un diagrama DAFO del papel de l
 
 Esta situación es tan dinámica que las propias universidades han apostado por la creación de observatorios de tendencias en las TIC, así como perfiles de Facebook /Twitter para tener informada a su comunidad de interés. Además, los servicios van creciendo constantemente: a la necesidad de un LMS hay que incluir los repositorios de contenidos audiovisuales, la gestión de material docente en abierto (OCW, cápsulas de aprendizaje, youtube, slideshare, …), canal de TVIP y radio, producción digital de contenidos, aplicaciones móviles, etc. Todo ello crea un panorama de constantes cambios donde es importante reflejar las tendencias de cara a los próximos años en cuanto a evolución.
 
-### REFLEXIONES Y TENDENCIAS
+## REFLEXIONES Y TENDENCIAS
 
 
 
