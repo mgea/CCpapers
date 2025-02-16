@@ -7,6 +7,7 @@
 >
 > Gea, M. (2022) El Cómic digital expandido: técnicas de producción mediante crowdsourcing, Artículo Creative Commons CCBYNCSA, update 15/12/2022 online https://github.com/mgea/CCpapers
 
+Website CCpapers: https://mgea.github.io/CCpapers/#/
 
 ## Resumen
 
