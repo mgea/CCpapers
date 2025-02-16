@@ -8,10 +8,8 @@
 ### Miguel Gea Megías, Universidad de Granada, 2022
 
 > (Versión Creative Commons del artículo contenido en libro Transmedialización y crowdsourcing en la cultura mediática contemporánea,  J. Alberich D.  Sánchez-mesa (eds.) pp 35-57, Ed. Universidad de Granada, ISBN 978-84-338-6929-6 
-> Disponible en Editorial Universidad de Granada en formato [libro](https://editorial.ugr.es/static/Emanagement/*/detalle_libro/transmedializacion-y-crowdsourcing-en-la-cultura-mediatica-conte) o  [ebook](https://editorial.ugr.es/static/Emanagement/*/detalle_libro/e-book-1000-e-transmedializacion-y-crowdsourcing-en-la-cultura-m) y [Versión Creative Commons](https://github.com/mgea/CCpapers/blob/main/MetodologiaCrowdsourcing/readme.md) (ver 1.0 updated 21/01/2022)
+> Disponible en Editorial Universidad de Granada en formato [libro físico](https://editorial.ugr.es/libro/transmedializacion-y-crowdsourcing-en-la-cultura-mediatica-contemporanea_138830/) y [Versión Creative Commons](https://github.com/mgea/CCpapers/blob/main/MetodologiaCrowdsourcing/readme.md) (ver 1.0 updated 21/01/2022) en revision
 
-
-en revision
 
 El cambio hacia una cultura digital está transformando radicalmente nuestra sociedad tal y como se concebía hasta nuestros días. 
 La irrupción de la tecnología ha dado lugar a un cambio profundo de nuestros hábitos y la proliferación de nuevos medios. 
@@ -20,10 +18,8 @@ las estrategias para la colaboración en la red. Finalmente se propondrá una es
 
 ## Introducción 
 
-> *El mundo ya no es analógico, sino digital,* y por tanto, 
->
-> debemos reflexionar sobre la diferencia que existe entre bits y átomos
->
+> *El mundo ya no es analógico, sino digital,* y por tanto, <br>
+> debemos reflexionar sobre la diferencia que existe entre bits y átomos <br>
 > *Being Digital, 1995* - *Nicholas Negroponte (1943- )*
 
 
@@ -45,10 +41,8 @@ Este contexto también provoca un cambio de actitud donde los “usuarios” se 
 
 ## Los cimientos del mundo digital: el hardware
 
-> *Las computadoras no sólo deben servir para ser eficientes y productivas,*
->
-> *sino que deben contribuir a aumentar la capacidad intelectual`*
->
+> *Las computadoras no sólo deben servir para ser eficientes y productivas,* <br>
+> *sino que deben contribuir a aumentar la capacidad intelectual`* <br>
 > (Douglas Engelbart, 1925-2013)*
 
 Para comprender esta sociedad de la interacción, debemos ubicarnos en el concepto de ordenador (o computadora) como piedra filosofal donde ha girado todo este proceso de transformación. En este sentido, la innovación necesaria para generar estos avances se debe apoyar en una serie de acontecimientos donde las ideas surgen cuando existe la tecnología adecuada para ponerla en práctica (Isaacson, 2014). De este modo, podemos hacer un rápido recorrido por los avances más importantes: la primera calculadora analógica (1930) por **Vannevar Bush** o la máquina de Turing (1936) por el matemático inglés Alan Turing que plantea el concepto teórico de algoritmo y programable. 
@@ -106,10 +100,8 @@ De ese modo, las limitaciones inherentes a esas primeras máquinas computacional
 
 El concepto de *ordenador personal* ya fue concebido por **Vannevar Bush** en 1945 en el artículo “As We May Think” donde habla en los siguientes términos: 
 
-> *“Consider a future device… in which an individual stores all his books, records, and communications,* 
-> 
-> *and which is mechanized so that it may be consulted with exceeding speed and flexibility.* 
-> 
+> *“Consider a future device… in which an individual stores all his books, records, and communications,*  <br>
+> *and which is mechanized so that it may be consulted with exceeding speed and flexibility.* <br> 
 > *It is an enlarged intimate supplement to his memory” (Bush, 1945)*
 
 
@@ -145,12 +137,9 @@ Esos logros no hubieran sido posible sin la necesaria participación de muchos p
 
 ## La cibercultura y los nuevos medios: el auge del software 
 
-> *Vivimos en dos mundos paralelos y diferentes: el online y el offline.*
-> 
->  *Hemos llegado a un punto en el que pasamos más tiempo frente a pantallas que frente a otras personas*
->  
+> *Vivimos en dos mundos paralelos y diferentes: el online y el offline.* <br>
+>  *Hemos llegado a un punto en el que pasamos más tiempo frente a pantallas que frente a otras personas* <br>
 >  *y eso tiene efectos perturbadores que no solemos percibir”    (Zygmunt Bauman, 1925-2017)* 
-
 
 En todo este proceso de cambio, tan importante como el hardware era el software: esas piezas de código que permitían poner en funcionamiento esas maquinarias, y de entre todas esas piezas, el *sistema operativo* era el pilar donde poder construir el resto de la arquitectura lógica. Ya se ha comentado la rivalidad lograr la primacía en el mercado entre Mac/PC, y parte de esa estrategia se basaba en el desarrollo de *sistemas operativos* (MacOS/Windows) que fuesen lo más atractivos posibles, robustos, funcionales pero fáciles de usar para atraer a la comunidad de programadores, profesionales del sector pero también, al pequeño y medio usuario que normalmente no tiene unos conocimientos amplios de tecnología. 
 
@@ -178,8 +167,7 @@ Antes de nada, cabe entonces preguntarse cuándo los *medios clásicos* (tales c
 
 ## Los orígenes de la cultura y expansión del conocimiento abierto
 
-> *“La mejor manera de proteger algo es hacerlo público”* 
-> 
+> *“La mejor manera de proteger algo es hacerlo público”* <br> 
 > *(Tíscar Lara)*
 
 Sin duda, si hemos visto que **Richard Stallman** es el precursor del software libre, **Lawrence Lessig** es la figura que emerge en el contexto de la cultura libre y el conocimiento abierto. Uno de sus planteamientos más conocido es la diferencia en el nivel de regulación (mediante leyes de copyright) de la cultura comercial (que protege a los creadores) frente a la no comercial o libre, pero “la expansión de Internet ha desencadenado una extraordinaria posibilidad de que muchos participen en este proceso de construir y cultivar esa cultura” (Lessig, 2005). 
@@ -233,15 +221,16 @@ Para poder entender el potencial (creativo) que suponen estas colaboraciones bas
 
 ## Metodología y herramientas de apoyo de participación colectiva
 
-> *Los ordenadores son inútiles.* 
-> 
+> *Los ordenadores son inútiles.* <br> 
 > *Sólo pueden darnos respuestas. Pablo Picasso (1881-1973)*
 
 Quizás nunca antes ha sido tan fácil acceder a la información, pero en muchos casos, sacrificamos la creatividad por la inmediatez. Ese ordenador (como decía **Picasso**) que nos da respuestas a lo que preguntamos lo infrautilizamos de tal modo que al cuestionarnos cualquier cosa, rápidamente accedemos a un buscador para escoger la primera opción de las miles y millones que nos ofrece. En ese sentido, **Resnick** nos propone una estrategia para este mundo cambiante: “el éxito se basa no solamente en lo que sabes o en cuánto sabes, sino más bien en tu habilidad para pensar y actuar creativamente” (Resnick, 2008), y para ello nos propone una metodologría de espiral creativo que vamos a comentar a continuación. Pero sin embargo, para entender un poco más esta filosofía, hay que situarnos en contexto, ya que **Resnick** es director del Grupo Jardín de Infancia de por Vida ([*Lifelong Kindergarten*](https://www.media.mit.edu/groups/lifelong-kindergarten/overview/)) del MIT medialab y es el desarrollador del lenguaje [Scratch](https://scratch.mit.edu) pensando para que aprendan los niños a programar. Al leer esto puede parecer que estoy tratando como si fuesen preescolares al lector, que en ningún momento es mi intención. Pero sin embargo, sí es adecuado plantearse y reflexionar sobre nuestra capacidad creativa en el mundo digital, que puede estar en pañales, por lo que las soluciones que se deben fomentar en edades tempranas también son válidas para nuestra creatividad digital. 
 
 Como se puede apreciar en la figura 2, esta espiral se basa en un proceso de imaginar lo que quieres hacer, para lo cual nos debemos poner manos a la obra para crearlo con las herramientas que dispongamos y a continuación, se debe “jugar” con lo que hemos hecho y lo compartimos con otros compañeros, reflexionando sobre lo que hemos hecho, como lo hemos usado y cómo lo han hecho los demás para a continuación imaginar cómo mejorar esa experiencia de juego. 
 
-![img](https://lh5.googleusercontent.com/4_tL1RPWMvSqP8mbwpL7hgWrAyx66eprI8KeP2TVA9UvMIPEg7lP2LbkvslmxCa2XC0pRIXEq7Vu-f2XHOxh443-pXFTiMUv1DlrZrMJUAfw5_YA61eOKOM9oGwFgLdaaa3mIjA)Figura 2. espiral del pensamiento creativo (Resnick) 
+![img](https://lh5.googleusercontent.com/4_tL1RPWMvSqP8mbwpL7hgWrAyx66eprI8KeP2TVA9UvMIPEg7lP2LbkvslmxCa2XC0pRIXEq7Vu-f2XHOxh443-pXFTiMUv1DlrZrMJUAfw5_YA61eOKOM9oGwFgLdaaa3mIjA)
+
+Figura 2. espiral del pensamiento creativo (Resnick) 
 
 Si bien este modelo parece planteado para una actividad lúdica de un colegio, esa actitud de curiosidad y descubrimiento y de “jugabilidad” tiene muchas oportunidades de crecimiento en la red. Por ejemplo, imaginad que queremos hacer nuestra página web de presentación. En primer lugar deberíamos imaginar cómo la queremos (divertida, animada, formal, participativa) para luego con las herramientas que conozcamos crearla y ver nuestra reacción y la reacción de los demás. Si esa experiencia no es la que deseábamos, seguramente deberemos re-imaginar nuevamente el producto, o bien adquirir nuevos conocimientos “jugando” con otros productos. Ese nuevo conocimiento también puede proceder de otros colegas/usuarios que forman parte de esa comunidad anónima a la que pertenecemos, pero que si somos capaces de ponerle nombre (a nuestro proyecto o intención) seguro que aparecerán esas contribuciones. 
 
