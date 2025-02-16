@@ -10,7 +10,7 @@
 
 Github [GitHub](https://github.com/mgea/CCpapers)
 
-Continuar [Comenzar](#)
+Continuar [Comenzar](#about)
 
 
 CCBYSA [Miguel Gea](https://mgea.github.io/about/#/) Updated, feb 2025
