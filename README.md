@@ -9,7 +9,8 @@ Artículos:
 
 ----
 
- 
+
+
 * Miguel Gea (2022) **Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto** en *Transmedialización y crowdsourcing en la cultura mediática contemporánea*, J. Alberich D.  Sánchez-mesa (editores),  Ed. Universidad de Granada, ISBN 978-84-338-6929-6. 
  Disponible en Editorial Universidad de Granada en formato [libro físico](https://editorial.ugr.es/libro/transmedializacion-y-crowdsourcing-en-la-cultura-mediatica-contemporanea_138830/) y [Versión Creative Commons](https://github.com/mgea/CCpapers/blob/main/MetodologiaCrowdsourcing/README.md) (updated 21/01/2022)
 
@@ -34,7 +35,8 @@ Artículos:
 -----
 
 
-* Gea, M. (2023) **El Cómic digital expandido: técnicas de producción mediante crowdsourcing** [Repo Creative Commons CCBYSA](https://github.com/mgea/CCpapers/tree/main/e-comic) 
+* Gea, M. (2023) **El Cómic digital expandido: técnicas de producción mediante crowdsourcing** [Repo Creative Commons CCBYSA](https://github.com/mgea/CCpapers/tree/main/e-comic) en El Cómic digital expandido: análisis y tendencias, en Gómez-Pérez, F.J. (ed.), El hipersector audiovisual-TIC. Una aproximación multidisciplinar. Salamanca: Comunicación Social Ediciones y Publicaciones. 2025 ISBN: 978-84-17600-88-4 D.O.I.:https://doi.org/10.52495/c9.emcs.43.c49 
+
 Miguel Gea Megías, Universidad de Granada (Versión 1.0 Creative Commons, Diciembre 2022)
 
     Enlace: https://mgea.github.io/CCpapers/#/e-comic/
@@ -43,8 +45,16 @@ Miguel Gea Megías, Universidad de Granada (Versión 1.0 Creative Commons, Dicie
 
 
 
+* Miguel Gea **Bienvenidos al Mundo Imaginado**, en [Agora UOC](https://mgeam.folio.uoc.edu/2024/10/07/bienvenidos-al-mundo-imaginado/) 
 
-Miguel Gea, 2025
+    Enlace:   https://mgea.github.io/CCpapers/#/bienvenidos_imagina
+
+
+  
+
+
+
+Miguel Gea, 2026
 
 Dpt. Lenguajes y Sistemas Informático 
 
