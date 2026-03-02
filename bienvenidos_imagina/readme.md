@@ -48,7 +48,7 @@ Los tiempos aquí y ahora ya no se miden como acostumbramos (con días, meses a�
 
 > «La Singularidad es la futura etapa de la evolución humana, un momento en el que el ritmo del progreso tecnológico se tornará tan acelerado y sus efectos tan profundos que transformarán irreversiblemente nuestra existencia. A través de la tecnología, la humanidad logrará superar las restricciones que nuestra biología nos ha impuesto» (Ray Kurzweil, 1998)
 
-![img](techno1-3.png)
+![img](techno3-2.png)
 
 El futuro es un tiempo impredecible, pero todas estas visiones nos ofrecen una perspectiva prometedora desde diferentes puntos de vista. Lo curioso de esta revisión es que son visiones basadas en la imaginación de investigadores y científicos que pertenecen a la posguerra y la época del baby boom. Estas visiones están impregnadas por el optimismo y la admiración por el (todavía lento) avance de la tecnología, la ciencia ficción y la llegada del hombre a la Luna.
 
