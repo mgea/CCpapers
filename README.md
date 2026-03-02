@@ -44,7 +44,7 @@ Artículos:
 
 
 
-* Gea, Miguel **Bienvenidos al Mundo Imaginado**, en [Agora UOC](https://mgeam.folio.uoc.edu/2024/10/07/bienvenidos-al-mundo-imaginado/) 
+* Gea, Miguel (2024) **Bienvenidos al Mundo Imaginado**, en [Agora UOC](https://mgeam.folio.uoc.edu/2024/10/07/bienvenidos-al-mundo-imaginado/) 
 
     Enlace:   https://mgea.github.io/CCpapers/#/bienvenidos_imagina/
 
