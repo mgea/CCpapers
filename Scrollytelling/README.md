@@ -4,15 +4,13 @@
 
 ### Miguel Gea Megías, Universidad de Granada
 
-> (Versión 1.0 Creative Commons, Agosto 2022,  )
+> (Versión 1.0 Creative Commons, Agosto 2022) <br> Version 1.1 Creative Commons Marzo 2026)
 >
-> Gea, M. (2022) Creación de narrativas digitales mediante Scrollytelling, Artículo Creative Commons CCBYNCSA, update 15/08/2022 online https://github.com/mgea/CCpapers
+> Gea, M. (2022-2026) Creación de narrativas digitales mediante Scrollytelling, Artículo Creative Commons CCBYNCSA, update 6/03/2026 online https://github.com/mgea/CCpapers
 
 
 
 
-
- 
 
 ## 1 Introducción al storytelling digital
 
@@ -23,6 +21,10 @@
 
 
 El año 2013 ha sido destacado por el *NYTimes como el año del storytelling interactivo* (www.nytimes.com/newsgraphics/2013/12/30/year-in-interactive-storytelling/ Cada vez se publican más contenidos donde se propone una participación activa del lector, ya sea para las noticias de un periódico, para la creación de libros o para la narración audiovisual. Su uso empieza a ser fundamental para creación de historias narradas en formato multimedia, visualización de datos, etc. 
+
+
+
+
 
 Storytelling es el **arte de contar una historia**. La creación y aprovechamiento de una atmósfera mágica a través del relato. Técnica que consiste en conectar con tus usuarios, ya sea a viva voz, por escrito, o a través de una historia con su personaje y su trama (Millner, 2020)
 
@@ -41,7 +43,7 @@ Las características de una narración interactiva (Millner, 2020)
 **Bibliografía**
 
 * Carolyn H. Miller (2020) **Digital Storytelling: A Creator's Guide to Interactive Storytelling, 4th edition** CRC Press, Taylor & Francis, https://www.carolynmiller.com 
-* P. C. Herbert Roth (2015) Experiencing Interactive Storytelling. PHD, Vrije Universiteit Amsterdam. https://research.vu.nl/ws/portalfiles/portal/1589776
+* P. C. Herbert Roth (2015) Experiencing Interactive Storytelling. PHD, Vrije Universiteit Amsterdam. https://research.vu.nl/ws/portalfiles/portal/42167962/complete%20dissertation.pdf
 
 
 
@@ -55,15 +57,27 @@ Cada vez es más importante la información visual en Internet. Algunos de los c
 
 * **Parallax** (el paralaje) es una técnica de diseño web que crea la ilusión de profundidad de una página web. El contenido se organiza en capas (layer) que se van solapando mediante la simulación de la técnica de [cámara multiplano](https://en.wikipedia.org/wiki/Multiplane_camera) que se usaba en la [animación tradicional](https://en.wikipedia.org/wiki/Traditional_animation) desde 1930 y que popularizó Walt Disney.
 
-* **Scrolling** es el efecto de desplazarse por el contenido de la página web (que es de un tamaño mayor al área del display) usando el mouse. Esta acción (evento) se puede utilizar como disparador (trigger) de los cambios que se producen en la página web, y que pueden ser diferentes en cada uno de los planos (layer) que la componen. El uso de scrolling se convierte en una técnica muy potente para data-driven storytelling (Pettersen, 2019)
+
+
+![](https://upload.wikimedia.org/wikipedia/en/e/ef/Sketch_of_a_Multiplane_camera_with_motorized_movements.gif)
+
+
+
+* **Scrolling** es el efecto de desplazarse por el contenido de la página web (que es de un tamaño mayor al área del display) usando el mouse. Esta acción (evento) se puede utilizar como disparador (trigger) de los cambios que se producen en la página web, y que pueden ser diferentes en cada uno de los planos (layer) que la componen. El uso de scrolling se convierte en una técnica muy potente para data-driven storytelling (Pettersen, 2019)  [Medium](https://medium.com/@divodwinov/scrollytelling-a-scroll-driven-storytelling-within-your-ui-2a0eb711ea59)
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UJSL2EyfZrSoGMxWC-9mnA.gif" alt="scrolling" style="zoom:20%;" />
+
+
+
+
 
 * El efecto **Parallax scrolling** se popularizó con [gráficos 2D](https://en.wikipedia.org/wiki/2D_computer_graphics) y en los [videojuegos](https://en.wikipedia.org/wiki/Video_game) basados en el modelo de [arcade games](https://en.wikipedia.org/wiki/Arcade_games) y las imágenes de fondo se mueven más lentas que las de frente, creando un efecto de animación con profundidad  
 
-  ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Parallax_scroll.gif/220px-Parallax_scroll.gif)
+  ![img](./img/Parallax_scroll.gif)
 
-* Se denomina **Scrollytelling** a la técnica de visualización de contenidos dependiendo del movimiento, que proviene de combinar *scroll* («desplazamiento») con *storytelling* («contar historias») (Goldenberg, 2017), es decir: *Websites that Tell a Story As You Scroll*    
+* Se denomina **Scrollytelling** a la técnica de visualización de contenidos dependiendo del movimiento, que proviene de combinar *scroll* («desplazamiento») con *storytelling* («contar historias») (Goldenberg, 2017), es decir: *Websites that Tell a Story As You Scroll*    [Data Scrollitelling](https://data.europa.eu/apps/data-visualisation-guide/scrollytelling-introduction) 
 
-  
+  ![](https://data.europa.eu/apps/data-visualisation-guide/Scrollytelling%200ae4533947224ed3b08305e4c650ce0d/scrollytelling-moviescroller.png)
 
 
 
@@ -169,25 +183,19 @@ Aunque hay infinidad de posibilidades para organizar la narrativa mediante scrol
 
 * **Parallax Scrolling.** En este caso la composición se hace mediante la superposición de varias imágenes que se organizan en capas y cada una de ellas posee diferente velocidad de movimiento  para dar sensación de profundidad mientras se navega con scroll. En este caso, se hace una presentación multicapa del contenido, pero se respeta la organización de dos niveles (*background & foreground*). En este caso, el contenido del fondo se divide en multiples capas, con imágenes que están dispuestas a diferentes distancias para dar profundidad a la escena. El movimiento de scroll ayuda a reforzar la sensación de profundidad multinivel jugando con la perspectiva, haciendo que las capas que estén más distantes se muevan más lentas que las que están más cercanas al usuario (https://visualcomposer.com/blog/parallax-effects/). Ejemplos en https://www.invisionapp.com/inside-design/10-examples-of-parallax-scrolling/ 
 
-<img src="https://s3.amazonaws.com/www-inside-design/uploads/2019/06/image9.gif" alt="ParallaxScrolling" style="zoom: 50%;" />
+![parallax scrolling image](img/parallax.gif)
 
 
 
 * **Scroll Trigger Animation**. Este es un caso más genérico donde tanto los elementos que forman parte del fondo como los de primer plano (contenido) poseen un movimiento que se sincroniza con el desplazamiento por scroll. 
 
-  ![airpord_web](img/airpod_mini.gif) 
   
+
+  ![airpord_web](img/airpod_mini.gif) 
+
   ![kiddy_web](img/kiddyweb_mini.gif) 
 
-  <img src="https://lattimoreandfriends.com/wp-content/uploads/2021/08/1_fullsite.gif" alt="parallax Scrolling example" style="zoom: 25%;" />  <img src="https://miro.medium.com/max/1400/0*nrrhk1Cxh8ZiLbMm.gif" alt="parallax Scrolling example" style="zoom: 30%;" />
-
   
-
-  
-
-  https://lattimoreandfriends.com/wp-content/uploads/2021/08/1_fullsite.gif
-
-  https://miro.medium.com/max/1400/0*nrrhk1Cxh8ZiLbMm.gif
 
   El uso de animación de los diferentes contenidos (assets) con scroll permite hacer combinaciones de diferentes  tipos de efectos, de los que destacan: 
 
@@ -199,11 +207,11 @@ Aunque hay infinidad de posibilidades para organizar la narrativa mediante scrol
 
     
 
-  * Se puden combinar además otros efectos rellacionados con propiedades de la imagen (mediante CSS) como **fade in/out**, **zooming**, **slide in/out**, y una infinidad de posibilildades mediante animación (ejemplos: https://greensock.com/st-demos/) 
+  * Se puden combinar además otros efectos relacionados con propiedades de la imagen (mediante CSS) como **fade in/out**, **zooming**, **slide in/out**, y una infinidad de posibilildades mediante animación (ejemplos: https://greensock.com/st-demos/) 
 
   * **Infinite scrolling** es otro caso particular de animación en la que aparecen paneles (assets) contínuamente conforme se navega, simulando un flujo constante de elementos (como instagram o twitter)
 
-    ![ScrollReveal](https://uiexample.com/wp-content/uploads/2020/09/Awesome-JavaScript-Animated-Elements-as-They-Scroll-into-View-Example-ScrollReveal.gif) 
+    ![ScrollReveal](img/infscroll.gif)
 
     
 
@@ -212,8 +220,8 @@ Aunque hay infinidad de posibilidades para organizar la narrativa mediante scrol
 * **Mouse based Parallax**. Esta técnica utiliza el movimiento de scroll para dotar de aspecto tridimensional de las imágenes según la posición del ratón. Se reduce el movimiento de scroll a micromovimientos de las imágenes que contiene la página pero no hay desplazamiento hacia arriba (reducido a una sola escena). Uno de los casos más interesantes es el efecto de **tilt parallax** que se consigue con tarjetas que se pueden inclinar levemente (rotar) con el desplazamiento del ratón    
 
   <img src="https://visualcomposer.com/wp-content/uploads/2019/11/Parallax-gifs-madwell-min.gif" alt="madwell mousebased" style="zoom:25%;" /> <img src="https://visualcomposer.com/wp-content/uploads/2019/11/Parallax-gifs-kikk-min.gif" alt="tilt" style="zoom:25%;" />
-
-![madwell mousebased](img/Parallax-gifs-kikk-min.gif) 
+  
+  
 
 https://visualcomposer.com/wp-content/uploads/2019/11/Parallax-gifs-kikk-min.gif
 
@@ -245,6 +253,12 @@ Un buen diseño tiene como objetivo que el usuario se sienta motivado y provoque
 
 * **NASA Prospect** website (Barron, 2015). Combina  elementos de audio e imagen para crear una experiencia inmersiva de storytelling interactivo. Diseñado por estudiantes de la Universdad de Dakota del Norte para ell programas Humans in Space Art de la NASA. http://nasaprospect.com/
 
+  https://www.awwwards.com/sites/nasa-prospect
+
+
+
+
+
 
 
 **Bibliografía**
@@ -258,7 +272,7 @@ Un buen diseño tiene como objetivo que el usuario se sienta motivado y provoque
 
 
 
-## 5 Diseño de experiencias con scrolling 
+## 5 Diseño de experiencias con Scrolling 
 
 El fundamento de este tipo de narración se basa en el efecto del scroll, que consiste en un desplazamiento por la página web con la ayuda del ratón. Este desplazamiento puede ser en sentido vertical (el más frecuente) o bien horizontal (más usado para juegos de plataformas). 
 
@@ -276,7 +290,7 @@ Para realizar el ajuste del diseño, debemos  organizar los contenidos de modo q
 
 
 
- 
+
 
 
 
@@ -322,7 +336,8 @@ La animación de elementos CSS es una herramienta muy potente para el diseño we
 	gsap.to(".box", {rotation: 27, x: 100, duration: 1});
 ```
 
-	ejemplo en codepen: https://codepen.io/GreenSock/pen/wvwEOZL
+ejemplo en codepen: https://codepen.io/GreenSock/pen/wvwEOZL
+	
 
 * **gsap.from()**
 
@@ -340,15 +355,13 @@ La animación de elementos CSS es una herramienta muy potente para el diseño we
 
 Algunas de las propiedades que podemos ajustar con GSAP permiten controlar la animación. En este ejemplo podemos ver efectos de *delay* y *easing* (tipo de interpolación)
 
-	ejemplo 01animateXYZ_gsap en codepen: https://codepen.io/mediaUX/pen/vYpdZgZ 
+ejemplo 01animateXYZ_gsap en codepen: https://codepen.io/mediaUX/pen/vYpdZgZ 
 
 
 
 
 
 ##### Conceptos necesarios para realizar un Scrolling con ScrollTrigger 
-
-
 
 La creación de una animación mediante scroll es relativamente sencillo si tenemos en cuenta los siguienes conceptos. Partimos  de unas clases en CSS que se definen las características de un elemento (al cual  queremos modificar sus propiedades con el scroll). Además, hay que tener en cuenta los la ubicación (relativa) de los elmentos en la pantalla (en su dimensión vertical). **El momento en el que se activa el efecto de scroll será cuando un elemento del CSS alcanza una posición** (denominada *hook*) en la pantalla (alcanza la parte superior, la central, la inferior, etc.).  **El momento de activación se senomina *trigger*** y en este caso, (para simplificar) se asocia al momento en el que un elemento del CSS (que es el activador o trigger) alcanza la posición de disparo (gancho o  hook). 
 
@@ -511,29 +524,53 @@ El uso de scrollytellling  se ha puesto de moda a partir de 2010, por una parte 
 * Goldenberg, Russell (2017) *How to implement scrollytelling with six different libraries*. Jun 2017. Online https://pudding.cool/process/how-to-implement-scrollytelling/
 * Microsiervos: http://www.microsiervos.com/archivo/ordenadores/scrollytelling-contenidos-movimiento.html (español de art. de Goldenberg)
 * @SICKMONKEYS. ¿Qué es el Parallax y cómo se hace? (con ejemplos) https://www.40defiebre.com/nueva-dimension-web-parallax/
-* 
 * Grafika Studio (2016) **How To Design A Storytelling Website**. https://www.grafikastudio.com.au/blog/2016/2/9/how-to-design-a-storytelling-website 
 * L. Amabili (2019) **From Storytelling To Scrollytelling: A Short Introduction and Beyond**. Medium https://medium.com/nightingale/from-storytelling-to-scrollytelling-a-short-introduction-and-beyond-fbda32066964	
 * J. Cardello (2019) **A beginner's guide to scrollytelling**. Webflow, https://webflow.com/blog/scrollytelling-guide 
 * L. M. Fadel, Jim Bizzocchi (2021) **Narrative Infusion in Web Design** in Advances in Design and Digital Communication II. pp 3-15. Proceedings of the 5th International Conference on Design and Digital Communication, Digicom 2021, November 4–6, 2021, Barcelos, Portugal, Springer https://link.springer.com/chapter/10.1007/978-3-030-89735-2_1 
 * M. Pettersen (2019) **What is Scrollytelling?** Its Impact on Digital Content. LearnHub (https://learn.g2.com/scrollytelling) y en https://www.vev.design/space/what-is-scrollytelling/
-* 
-* 
 
 
 
 
 ## Catalogo completo de scrolling websites
 
+
+
 * **Snow Fall: Avalanche at Tunnel Creek** (2012)   https://www.nytimes.com/projects/2012/snow-fall/
 
   Creador John Branch,  publicado el 20 de diciembre de 2012 en NYT 
 
-  Snow Fall is a scrollytelling masterpiece. It’s the harrowing tale of a Washington avalanche in 2012. Each part of this story has its own individual page, broken into manageable blocks (Cardello, 2019)
+  Snow Fall is a scrollytelling masterpiece. It’s the harrowing tale of a Washington avalanche in 2012. Each part of this story has its own individual page, broken into manageable blocks (Cardello, 2019). 
 
   Premios: The Webby Awwards 2013 (https://winners.webbyawards.com/2013/video/performance-craft/best-use-of-interactive-video/146927/snow-fall-the-avalanche-at-tunnel-creek)
 
-  
+* **The boat, 2015** https://www.sbs.com.au/theboat/ 
+
+  Diseñador: Matt Huynh https://www.matthuynh.com/theboat 
+
+  SBS’s 2015 interactive graphic novel ‘The Boat‘, an adaption of Nam Le’s widely acclaimed anthology released, shares the experience of a young refugee girl escaping the perils of the Vietnamese war. The production movingly exemplifies the innovative nature of interactive journalism, through it’s emotional effectiveness and the truly immersive power created by parallax scrolling (Fadel & Bizzocchi, 2021)  
+
+* **James Bond 007 Cars Evolution, 2012**
+
+  http://www.evanshalshaw.com/more/bondcars/
+
+  Awwwards: 7/11/2021 https://www.awwwards.com/sites/bond-007-cars-evolution 
+
+  Cars Review: https://www.tradex.com/latest-news/2018-12-07/the-evolution-of-james-bond-s-cars 
+
+* **PitchFork.** Revista de Chicago online sobre música independiente. **Glitter in the dark** Entrevista a Bat for Lashes https://www.pitchfork.com/features/cover-story/reader/bat-for-lashes/
+
+* **Peter Lindbergh, 2021** 
+
+  http://peterlindbergh.obys.agency/ 
+
+  Awwwards Scroll navigation photo gallery, https://www.awwwards.com/sites/peter-lindbergh 18/10/2021
+
+  Info: https://obys.medium.com/peter-lindbergh-website-by-obys-agency-f4df8380d861
+
+* **Cocainenomics, 2015** https://www.wsj.com/ad/cocainenomics-es 
+   The Wall Street journal lanza “Cocainenomics” un reportaje publicitario para la serie "Narcos" de Netflix (Pettersen 2019)
 
 * **NASA Prospect**  (2013) http://nasaprospect.com/ 
 
@@ -543,34 +580,18 @@ El uso de scrollytellling  se ha puesto de moda a partir de 2010, por una parte 
 
   Github repo: https://github.com/collinhover/nasaprospect
 
-  
-
 * **Haruki Murakami’s website** (2014) https://www.harukimurakami.com/
 
   Analizado en (Barron, 2015) muestra las diferentes obras literarias mediante una imagen y una cita. El paso de un llibro al siguiente es mediante scrolling sin que haya movimiento aparente (uso de pining y animación basada en mouse)   
 
   Awwwards site of the day (27/12/2014) https://www.awwwards.com/sites/haruki-murakami
 
-  
-
-* **The boat** (2015) https://www.sbs.com.au/theboat/ 
-
-  Diseñador: Matt Huynh https://www.matthuynh.com/theboat 
-
-  SBS’s 2015 interactive graphic novel ‘The Boat‘, an adaption of Nam Le’s widely acclaimed anthology released, shares the experience of a young refugee girl escaping the perils of the Vietnamese war. The production movingly exemplifies the innovative nature of interactive journalism, through it’s emotional effectiveness and the truly immersive power created by parallax scrolling (Fadel & Bizzocchi, 2021)  
-
-  
-
 * **Cocainenomics** (2015) https://www.wsj.com/ad/cocainenomics-es 
   The Wall Street journal lanza “Cocainenomics” un reportaje publicitario para la serie "Narcos" de Netflix (Pettersen 2019)
-
-  
 
 * **Glitter in the Dark** (2016) http://pitchfork.com/features/cover-story/reader/bat-for-lashes/ 
 
   PitchFork (2016) Revista de Chicago online sobre música independiente. Glitter in the dark Entrevista a Bat for Lashes. 
-
-  
 
 * **Ueno** (2017) https://ueno.co/
 
@@ -586,15 +607,11 @@ El uso de scrollytellling  se ha puesto de moda a partir de 2010, por una parte 
 
   https://www.awwwards.com/inspiration/horizontal-scroll-animated-illustrations-longshot-features
 
-  
-
 * **Peter Lindbergh photographer** (2021) https://peterlindbergh-lisicina.com/
 
   Awwwards Scroll navigation photo gallery, https://www.awwwards.com/sites/peter-lindbergh 18/10/2021
 
   Info: https://obys.medium.com/peter-lindbergh-website-by-obys-agency-f4df8380d861
-
-  
 
 * **Susan Potter Will Live Forever** (2019)   https://www.nationalgeographic.com/magazine/graphics/visible-human-susan-potter-cadaver
 
